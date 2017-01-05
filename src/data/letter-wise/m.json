@@ -1,0 +1,907 @@
+[
+  {
+    "word": "macabre ",
+    "pos": "adj",
+    "definition": "Gruesome; grisly; ghastly."
+  },
+  {
+    "word": "macaronic ",
+    "pos": "adj",
+    "definition": "Derived from or composed of a mixture of languages; composed of or characterized by Latin words mixed with vernacular words."
+  },
+  {
+    "word": "macerate ",
+    "pos": "v",
+    "definition": "To soften by soaking in liquid; to waste away or to grow thin."
+  },
+  {
+    "word": "machination ",
+    "pos": "n",
+    "definition": "A plot, seheme, or conspiracy."
+  },
+  {
+    "word": "machismo ",
+    "pos": "n",
+    "definition": "An exaggerated sense of manliness; a strong sense of the right to dominate."
+  },
+  {
+    "word": "maculated ",
+    "pos": "adj",
+    "definition": "Spotted; stained."
+  },
+  {
+    "word": "maculated ",
+    "pos": "adj",
+    "definition": "Spotted; stained."
+  },
+  {
+    "word": "maelstrom ",
+    "pos": "n",
+    "definition": "A violent whirlpool; a turbulent confrontation; a hectic situation."
+  },
+  {
+    "word": "magisterial ",
+    "pos": "adj",
+    "definition": "Authoritative; imperious; commanding."
+  },
+  {
+    "word": "magistrate ",
+    "pos": "n",
+    "definition": "A governmental official; somebody who is authorized to administer the law."
+  },
+  {
+    "word": "magnanimity ",
+    "pos": "n",
+    "definition": "Generosity."
+  },
+  {
+    "word": "magnate ",
+    "pos": "n",
+    "definition": "A prominent or influential person; "
+  },
+  {
+    "word": "magniloquent ",
+    "pos": "adj",
+    "definition": "Boastful; pompous."
+  },
+  {
+    "word": "magnitude ",
+    "pos": "v",
+    "definition": "Greatness in size, power, or extent."
+  },
+  {
+    "word": "maim ",
+    "pos": "v",
+    "definition": "To mutilate; to injury and to disable; to permanently disfigure."
+  },
+  {
+    "word": "makeshift ",
+    "pos": "adj",
+    "definition": "Temporary; built and/or performed quickly and hastily."
+  },
+  {
+    "word": "maladroit ",
+    "pos": "adj",
+    "definition": "Clumsy; without forethought; tactless;  with no skill."
+  },
+  {
+    "word": "malady ",
+    "pos": "n",
+    "definition": "An illness; the cause of suffering."
+  },
+  {
+    "word": "malaise ",
+    "pos": "n",
+    "definition": "A sense of uneasiness; a vague feeling of ill health."
+  },
+  {
+    "word": "malapropism ",
+    "pos": "n",
+    "definition": "An inappropriate use of a word; misuse."
+  },
+  {
+    "word": "malcontent ",
+    "pos": "n",
+    "definition": "A disgruntled person; somebody who is not happy with the current state of affairs."
+  },
+  {
+    "word": "malediction ",
+    "pos": "n",
+    "definition": "A curse. "
+  },
+  {
+    "word": "malefactor ",
+    "pos": "n",
+    "definition": "A criminal; an antagonist; a person who engages in evil acts."
+  },
+  {
+    "word": "maleficient ",
+    "pos": "adj",
+    "definition": "Being or doing evil."
+  },
+  {
+    "word": "malevolence ",
+    "pos": "n",
+    "definition": "Ill-will; a desire for others to fail."
+  },
+  {
+    "word": "malicious ",
+    "pos": "adj",
+    "definition": "Hateful; spiteful; expressing malice."
+  },
+  {
+    "word": "malign ",
+    "pos": "v",
+    "definition": "To speak poorly of; to bad-mouth; to defame."
+  },
+  {
+    "word": "malign ",
+    "pos": "v",
+    "definition": "To speak poorly of, in an attempt to defame."
+  },
+  {
+    "word": "malignant ",
+    "pos": "adj",
+    "definition": "Tending to cause harm or death; injurious; aggressively malevolent."
+  },
+  {
+    "word": "malinger ",
+    "pos": "v",
+    "definition": "To pretend to be ill or have an injury; fake illness to avoid responsibilities or work."
+  },
+  {
+    "word": "malleable ",
+    "pos": "adj",
+    "definition": "Capable of being shaped; changeable; pliable."
+  },
+  {
+    "word": "malodorous ",
+    "pos": "adj",
+    "definition": "Foul-smelling."
+  },
+  {
+    "word": "malpractice ",
+    "pos": "n",
+    "definition": "Failure to carry out one's professional duty properly; professional misconduct."
+  },
+  {
+    "word": "mandate ",
+    "pos": "v",
+    "definition": "To order; to charge; to command and to lead."
+  },
+  {
+    "word": "mangy ",
+    "pos": "adj",
+    "definition": "Shabby; wretched; badly kept."
+  },
+  {
+    "word": "maniacal ",
+    "pos": "adj",
+    "definition": "Insane; of or characterized by lunatic actions or thoughts; utterly mad."
+  },
+  {
+    "word": "manifest ",
+    "pos": "v",
+    "definition": "To make visible; to make obvious."
+  },
+  {
+    "word": "manifesto ",
+    "pos": "n",
+    "definition": "A public declaration; an official statement of policy; rigid rules or morals, professed to the public."
+  },
+  {
+    "word": "manipulate ",
+    "pos": "v",
+    "definition": "To control; to operate with one's hands; to play upon and to direct."
+  },
+  {
+    "word": "mannered ",
+    "pos": "adj",
+    "definition": "Not natural; altered; affected in some way."
+  },
+  {
+    "word": "mantle ",
+    "pos": "n",
+    "definition": "A loose sleeveless outer garment."
+  },
+  {
+    "word": "manumission ",
+    "pos": "n",
+    "definition": "The act of freeing from slavery."
+  },
+  {
+    "word": "manumit ",
+    "pos": "v",
+    "definition": "To emancipate; to free from slavery or bondage."
+  },
+  {
+    "word": "marginal ",
+    "pos": "adj",
+    "definition": "Just barely within a boundary or limit; very close."
+  },
+  {
+    "word": "maritime ",
+    "pos": "adj",
+    "definition": "Bordering the sea or a large body of water; related to or referring to something nautical."
+  },
+  {
+    "word": "maroon ",
+    "pos": "v",
+    "definition": "To desert; to leave in an isolated place; to separate from everybody or everything else."
+  },
+  {
+    "word": "marred ",
+    "pos": "adj",
+    "definition": "Damaged; disfigured; that state in which perfection, integrity, or quality are impaired."
+  },
+  {
+    "word": "marshal ",
+    "pos": "v",
+    "definition": "To order about; to organize; to guide to the correct place."
+  },
+  {
+    "word": "martial ",
+    "pos": "adj",
+    "definition": "Pertaining to war or disorder."
+  },
+  {
+    "word": "martinet ",
+    "pos": "n",
+    "definition": "Somebody who is overly strict; a ruthless ruler; a dictator; an ultimate autocrat who demands that rules be followed exactly."
+  },
+  {
+    "word": "martyr ",
+    "pos": "n",
+    "definition": "One who willingly dies for a cause; a person who willingly accepts suffering for the sake of a principle or idea."
+  },
+  {
+    "word": "mash ",
+    "pos": "v",
+    "definition": "To crush; to convert into mush."
+  },
+  {
+    "word": "mask ",
+    "pos": "v",
+    "definition": "To hide; to keep from sight; to cover up and to keep the real identity from being seen."
+  },
+  {
+    "word": "masochist ",
+    "pos": "n",
+    "definition": "A person who enjoys feeling his own pain."
+  },
+  {
+    "word": "masquerade ",
+    "pos": "v",
+    "definition": "To don a mask or disguise; to pretend."
+  },
+  {
+    "word": "mass ",
+    "pos": "n",
+    "definition": "The Christian celebration of the Eucharist; the gathering of Christians for the purpose of worship."
+  },
+  {
+    "word": "massacre ",
+    "pos": "n",
+    "definition": "The cruel killing of many (often completely innocent) people or animals."
+  },
+  {
+    "word": "masticate ",
+    "pos": "v",
+    "definition": "To chew; to grind in one's mouth."
+  },
+  {
+    "word": "matriculate ",
+    "pos": "v",
+    "definition": "To enroll in college of graduate school."
+  },
+  {
+    "word": "matrimony ",
+    "pos": "n",
+    "definition": "The sate of being married."
+  },
+  {
+    "word": "mature ",
+    "pos": "adj",
+    "definition": "Developed; able to understand and capable of interacting with one's surroundings; fully grown; responsible."
+  },
+  {
+    "word": "matutinal ",
+    "pos": "adj",
+    "definition": "Occurring in the morning; early in the day."
+  },
+  {
+    "word": "maul ",
+    "pos": "v",
+    "definition": "To batter; to ravage; to injure; to tear and to dismember."
+  },
+  {
+    "word": "mausoleum ",
+    "pos": "n",
+    "definition": "An ornamental, stately, and often ceremonial tomb."
+  },
+  {
+    "word": "mauve ",
+    "pos": "n",
+    "definition": "A pale purple; blue and red."
+  },
+  {
+    "word": "maverick ",
+    "pos": "n",
+    "definition": "A rebel; somebody who is a nonconformist."
+  },
+  {
+    "word": "maw ",
+    "pos": "n",
+    "definition": "The mouth, jaws, or gullet of a carnivorous animal; the throat of a greedy person."
+  },
+  {
+    "word": "mawkish ",
+    "pos": "adj",
+    "definition": "Sentimental; weakly emotional; slightly nauseating."
+  },
+  {
+    "word": "mayhem ",
+    "pos": "n",
+    "definition": "A violent disorder; chaos."
+  },
+  {
+    "word": "meager ",
+    "pos": "adj",
+    "definition": "Scanty; inadequate; little."
+  },
+  {
+    "word": "meddlesome ",
+    "pos": "adj",
+    "definition": "Interfering; intrusive; being obstructive."
+  },
+  {
+    "word": "mediate ",
+    "pos": "v",
+    "definition": "To settle a dispute with the help of an outside arbitrator; to act as an intermediary."
+  },
+  {
+    "word": "mediocre ",
+    "pos": "adj",
+    "definition": "Ordinary; commonplace; neither extraordinarily bad or good; in the middle."
+  },
+  {
+    "word": "meditation ",
+    "pos": "n",
+    "definition": "A reflection about a specific idea, event, or state of being."
+  },
+  {
+    "word": "medley ",
+    "pos": "n",
+    "definition": "A mixture; an agglomeration of several items."
+  },
+  {
+    "word": "meek ",
+    "pos": "adj",
+    "definition": "Submissive."
+  },
+  {
+    "word": "melancholy ",
+    "pos": "n",
+    "definition": "A state characterized as gloomy and dim; a state of depression or of lessened sensual activity."
+  },
+  {
+    "word": "melee ",
+    "pos": "n",
+    "definition": "A fight; a one-on-one battle."
+  },
+  {
+    "word": "mellifluous ",
+    "pos": "adj",
+    "definition": "Sweetly flowing; melodious."
+  },
+  {
+    "word": "memento ",
+    "pos": "n",
+    "definition": "An object that acts as a reminder of something from the past; a souvenir."
+  },
+  {
+    "word": "menace ",
+    "pos": "n",
+    "definition": "A threat; a great disturbance."
+  },
+  {
+    "word": "menagerie ",
+    "pos": "n",
+    "definition": "A collection of wild animals on exhibition; a zoo; a collection of odd items."
+  },
+  {
+    "word": "mendacious ",
+    "pos": "adj",
+    "definition": "Lying; habitually dishonest; untruthful."
+  },
+  {
+    "word": "mendicant ",
+    "pos": "n",
+    "definition": "A beggar; a person whose livelihood depends on begging."
+  },
+  {
+    "word": "mentor ",
+    "pos": "n",
+    "definition": "A teacher; somebody who supervises and instructs; a counselor."
+  },
+  {
+    "word": "mercantile ",
+    "pos": "adj",
+    "definition": "Referring to trade or merchants."
+  },
+  {
+    "word": "meretricious ",
+    "pos": "adj",
+    "definition": "Attractive on the surface only; flashy; showy, but in a tasteless way."
+  },
+  {
+    "word": "merger ",
+    "pos": "n",
+    "definition": "The combining of two objects, companies, businesses, corporations, etc."
+  },
+  {
+    "word": "mesmerize ",
+    "pos": "v",
+    "definition": "To hypnotize; to attract."
+  },
+  {
+    "word": "metallurgical ",
+    "pos": "adj",
+    "definition": "Pertaining to the study of metals  and the refinement of ores."
+  },
+  {
+    "word": "metaphor ",
+    "pos": "n",
+    "definition": "An implied comparison; a figure of speech in which an expression is used to refer to something else indirectly as a means to suggest a similarity."
+  },
+  {
+    "word": "methodical ",
+    "pos": "adj",
+    "definition": "Systematic; thought out; planned; clever; in an orderly fashion."
+  },
+  {
+    "word": "meticulous ",
+    "pos": "adj",
+    "definition": "Paying attention to detail; very attentive to fine points."
+  },
+  {
+    "word": "metropolis ",
+    "pos": "n",
+    "definition": "A large city, often the agglomeration of many smaller municipalities."
+  },
+  {
+    "word": "mettle ",
+    "pos": "n",
+    "definition": "Endurance or courage; boldness. "
+  },
+  {
+    "word": "mettlesome ",
+    "pos": "adj",
+    "definition": "Courageous, high-spirited; willing to enter a dangerous situation."
+  },
+  {
+    "word": "miasma ",
+    "pos": "n",
+    "definition": "Swamp gas; heavy vaporous matter emanating from decaying matter; unhealthy vapors."
+  },
+  {
+    "word": "middling ",
+    "pos": "adj",
+    "definition": "Average; without exceptional quality; fair."
+  },
+  {
+    "word": "mien ",
+    "pos": "n",
+    "definition": "Bearing; manner of acting; appearance; demeanor.  "
+  },
+  {
+    "word": "migrant ",
+    "pos": "adj",
+    "definition": "Changing in form or habit; wandering."
+  },
+  {
+    "word": "militant ",
+    "pos": "adj",
+    "definition": "Combative; bellicose; having a propensity to argue or fight."
+  },
+  {
+    "word": "militate ",
+    "pos": "v",
+    "definition": "To work against or to have an influence in; to have an effect"
+  },
+  {
+    "word": "militia ",
+    "pos": "n",
+    "definition": "An army comprised of ordinary people who are ready at a short notice; an army corps comprised of non- professional soldiers."
+  },
+  {
+    "word": "millennium ",
+    "pos": "n",
+    "definition": "A period of one thousand years."
+  },
+  {
+    "word": "millinery ",
+    "pos": "n",
+    "definition": "A shop or store that sells hats for women."
+  },
+  {
+    "word": "mime ",
+    "pos": "n",
+    "definition": "A pantomime; a person who mimics others; a person who performs motions and act without speaking."
+  },
+  {
+    "word": "minacious ",
+    "pos": "adj",
+    "definition": "Threatening."
+  },
+  {
+    "word": "minaret ",
+    "pos": "n",
+    "definition": "A tall, thin tower on a mosque or building. "
+  },
+  {
+    "word": "minatory ",
+    "pos": "adj",
+    "definition": "Menacing; being of a threatening nature."
+  },
+  {
+    "word": "mince ",
+    "pos": "v",
+    "definition": "To pronounce or utter affectedly; to soften; to subdivide into many small fragments."
+  },
+  {
+    "word": "minnow ",
+    "pos": "n",
+    "definition": "A very small fish."
+  },
+  {
+    "word": "minute ",
+    "pos": "adj",
+    "definition": "Very small; miniscule."
+  },
+  {
+    "word": "minutiae ",
+    "pos": "n",
+    "definition": "Petty or trivial details; trifling matters."
+  },
+  {
+    "word": "mirth ",
+    "pos": "n",
+    "definition": "Enjoyment; laughter; merriment."
+  },
+  {
+    "word": "misanthrope ",
+    "pos": "n",
+    "definition": "A person who loathes mankind."
+  },
+  {
+    "word": "misapprehension ",
+    "pos": "n",
+    "definition": "An error; a misunderstanding; confusion."
+  },
+  {
+    "word": "miscegenation ",
+    "pos": "n",
+    "definition": "Characterized as a mixture of races; cohabitation of two people of different races."
+  },
+  {
+    "word": "miscellaneous ",
+    "pos": "adj",
+    "definition": "Having many parts; not uniform; comprised of different components; not directly relevant."
+  },
+  {
+    "word": "mischance ",
+    "pos": "n",
+    "definition": "Bad luck. "
+  },
+  {
+    "word": "mischief ",
+    "pos": "n",
+    "definition": "Troublesome behavior; a damaging course of action."
+  },
+  {
+    "word": "misconduct ",
+    "pos": "n",
+    "definition": "Mischievous behavior; inappropriate  supervision; poor management."
+  },
+  {
+    "word": "misconstrue ",
+    "pos": "v",
+    "definition": "To interpret incorrectly; to misinterpret."
+  },
+  {
+    "word": "miscreant ",
+    "pos": "n",
+    "definition": "A wretched person; a wrongdoer; a villain."
+  },
+  {
+    "word": "misdemeanor ",
+    "pos": "n",
+    "definition": "A minor crime; a small mishap; wrongdoing."
+  },
+  {
+    "word": "miser ",
+    "pos": "n",
+    "definition": "A stingy person who is infatuated with wealth and the acquisition of money."
+  },
+  {
+    "word": "misogamy ",
+    "pos": "n",
+    "definition": "A hatred of marriage."
+  },
+  {
+    "word": "missive ",
+    "pos": "n",
+    "definition": "A letter; a written statement; a written communication."
+  },
+  {
+    "word": "mitigate ",
+    "pos": "v",
+    "definition": "To lessen the severity of; to appease; to moderate."
+  },
+  {
+    "word": "mnemonic ",
+    "pos": "n",
+    "definition": "Something that assists in the retention of facts; a memory aide."
+  },
+  {
+    "word": "mock ",
+    "pos": "v",
+    "definition": "To ridicule; to deride."
+  },
+  {
+    "word": "mode ",
+    "pos": "n",
+    "definition": "A prevailing style; the current fashion; a specific manner of going about things."
+  },
+  {
+    "word": "moderation ",
+    "pos": "n",
+    "definition": "The quality of not too little and not too much, but of an ample amount; not extreme."
+  },
+  {
+    "word": "modicum ",
+    "pos": "n",
+    "definition": "A limited quantity; a small amount."
+  },
+  {
+    "word": "mogul ",
+    "pos": "n",
+    "definition": "A leader; a powerful person; the head of a company or organization that has far-reaching influence."
+  },
+  {
+    "word": "moil ",
+    "pos": "v",
+    "definition": "To work hard at; to drudge."
+  },
+  {
+    "word": "mollify ",
+    "pos": "v",
+    "definition": "To make calm or to quiet; to soothe an angry person."
+  },
+  {
+    "word": "molt ",
+    "pos": "v",
+    "definition": "To lose skin or feathers before new growth."
+  },
+  {
+    "word": "momentum ",
+    "pos": "n",
+    "definition": "The moving force of an object; in physics, the product of mass and velocity; the quantity of motion of a moving body; a driving force."
+  },
+  {
+    "word": "monarchy ",
+    "pos": "n",
+    "definition": "A government that is ruled by a single, absolute ruler."
+  },
+  {
+    "word": "monastic ",
+    "pos": "adj",
+    "definition": "Related or pertaining to monks or monasteries; pertaining to an austere form of living."
+  },
+  {
+    "word": "monetary ",
+    "pos": "n",
+    "definition": "Pertaining to or related to money."
+  },
+  {
+    "word": "monochromatic ",
+    "pos": "adj",
+    "definition": "Having only or characterized by only a single color."
+  },
+  {
+    "word": "monogram ",
+    "pos": "n",
+    "definition": "An inscription of one or more initials; two or more alphabetic letters embroidered on cloth, wood, or another medium."
+  },
+  {
+    "word": "monotheism ",
+    "pos": "n",
+    "definition": "The belief in one God."
+  },
+  {
+    "word": "moratorium ",
+    "pos": "n",
+    "definition": "A legal delay or postponement; an interruption."
+  },
+  {
+    "word": "morbid ",
+    "pos": "adj",
+    "definition": "Related to or exhibiting unhealthy or unnatural thoughts."
+  },
+  {
+    "word": "mordant ",
+    "pos": "adj",
+    "definition": "Biting; sarcastic; hateful; stinging; cutting."
+  },
+  {
+    "word": "mores ",
+    "pos": "n",
+    "definition": "Social conventions; moral standards; the accepted moral customs."
+  },
+  {
+    "word": "morgue ",
+    "pos": "n",
+    "definition": "A place where bodies are kept before burial or cremation."
+  },
+  {
+    "word": "moribund ",
+    "pos": "adj",
+    "definition": "Dying; about to fail; corrupt and broken."
+  },
+  {
+    "word": "morose ",
+    "pos": "adj",
+    "definition": "Ill-humored; sullen; overly melancholy."
+  },
+  {
+    "word": "mortal ",
+    "pos": "adj",
+    "definition": "Fatal; succumbing to death."
+  },
+  {
+    "word": "mortgage ",
+    "pos": "n",
+    "definition": "A legal pledge of property to a creditor as security for the payment of a loan."
+  },
+  {
+    "word": "mortician ",
+    "pos": "n",
+    "definition": "An undertaker; the director of a funeral home."
+  },
+  {
+    "word": "mortify ",
+    "pos": "v",
+    "definition": "To humiliate, shun, or frighten by embarrassing excessively; to shame."
+  },
+  {
+    "word": "mosaic ",
+    "pos": "n",
+    "definition": "A picture composed of small tiles, usually ceramic."
+  },
+  {
+    "word": "mote ",
+    "pos": "n",
+    "definition": "A small speck; a particle of dust."
+  },
+  {
+    "word": "motif ",
+    "pos": "n",
+    "definition": "A theme; a recurring element in a musical or literary work; a dominant element."
+  },
+  {
+    "word": "motility ",
+    "pos": "n",
+    "definition": "The ability to move spontaneously."
+  },
+  {
+    "word": "motley ",
+    "pos": "adj",
+    "definition": "Multi-colored; mixed."
+  },
+  {
+    "word": "mottled ",
+    "pos": "adj",
+    "definition": "Referring to a pattern or coloring that is blotched; spotted."
+  },
+  {
+    "word": "moue ",
+    "pos": "n",
+    "definition": "A grimace, indicating displeasure; a facial expression made by somebody who is pouting."
+  },
+  {
+    "word": "muddle ",
+    "pos": "v",
+    "definition": "To confuse; to mix up and to make matters worse; to think in a confused way."
+  },
+  {
+    "word": "mufti ",
+    "pos": "n",
+    "definition": "Civilian clothes."
+  },
+  {
+    "word": "mulct ",
+    "pos": "v",
+    "definition": "To defraud; to blackmail; to confiscate; to deplete."
+  },
+  {
+    "word": "multilingual ",
+    "pos": "adj",
+    "definition": "Having or being fluent in many languages; being able to converse with people of different nationalities."
+  },
+  {
+    "word": "multiplicity ",
+    "pos": "n",
+    "definition": "A large number, composed of many varieties."
+  },
+  {
+    "word": "mundane ",
+    "pos": "adj",
+    "definition": "Worldly as opposed to spiritual; everyday; boring."
+  },
+  {
+    "word": "mundane ",
+    "pos": "adj",
+    "definition": "Commonplace; dull; worldly; not extraordinary."
+  },
+  {
+    "word": "munificent ",
+    "pos": "adj",
+    "definition": "Extremely liberal; very generous."
+  },
+  {
+    "word": "munition ",
+    "pos": "n",
+    "definition": "Large military arms."
+  },
+  {
+    "word": "mural ",
+    "pos": "n",
+    "definition": "A painting on a wall."
+  },
+  {
+    "word": "muse ",
+    "pos": "v",
+    "definition": "To contemplate at length; to ponder deeply; to be engaged in meditation."
+  },
+  {
+    "word": "mussitate ",
+    "pos": "v",
+    "definition": "To move the lips in imitation of speech."
+  },
+  {
+    "word": "muster ",
+    "pos": "v",
+    "definition": "To gather; to assemble or to aggregate."
+  },
+  {
+    "word": "musty ",
+    "pos": "adj",
+    "definition": "Stale in odor or taste, most often resulting from mold or from old age."
+  },
+  {
+    "word": "mutinous ",
+    "pos": "adj",
+    "definition": "Unruly; disposed to mutiny; rebellious."
+  },
+  {
+    "word": "mutter ",
+    "pos": "v",
+    "definition": "To utter a complaint in a barely audible tone."
+  },
+  {
+    "word": "myopic ",
+    "pos": "adj",
+    "definition": "Nearsighted; having no foresight."
+  },
+  {
+    "word": "myriad ",
+    "pos": "n",
+    "definition": "A large number."
+  },
+  {
+    "word": "mystic ",
+    "pos": "adj",
+    "definition": "Hard to understand; having a hidden meaning or a spiritual power."
+  }
+]

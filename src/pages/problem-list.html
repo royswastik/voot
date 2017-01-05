@@ -1,0 +1,100 @@
+<h1 id="app-name"></h1>
+<button class="show-importer">Show Importer</button>
+<button class="show-configuration">Configuration</button>
+<!--<p class="subtitle">
+            Welcome to <a href="http://electron.atom.io" class="js-external-link">Electron</a> app running on this magnificent <strong id="platform-info"></strong> machine.
+        </p>-->
+<!--<p class="subtitle">
+            You are in <strong id="env-name"></strong> environment.
+        </p>-->
+<div class="row">
+    <div class="col-sm-3">
+        <div>
+            <ul id="category-list" class="nav nav-pills nav-stacked">
+            </ul>
+        </div>
+    </div>
+    <div class="col-sm-9">
+        <div class="list-group" id="question-list">
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+    ipcRenderer.on('categories-fetched-fs', function(event, input, output) {
+        //   const message = `The factorial of ${input} is ${output}`
+        //  invisReply.textContent = message;
+        var json = JSON.parse(output);
+        $("#category-list").html(json);
+        for (var i = 0; i < json["categories"].length; i++) {
+            $("#category-list").append('<li role="presentation" class="category-item" id="' + json["categories"][i]["id"] + '"><a href="#">' + json["categories"][i]["name"] + '</a></li>');
+        }
+        $(".category-item").click(function() {
+            $("#question-list").html("Loading");
+            var categoryId = $(this).attr("id");
+            fsHelper.open();
+            fsHelper.getProblemsByCategoryId(categoryId);
+            fsHelper.close();
+        });
+    });
+
+    /**
+     * Called when fs helper background service is stopped
+     */
+    ipcRenderer.on('fs-helper-closed', function(event, fromWindowId) {
+        console.log("FS Helper Closed");
+    });
+
+    ipcRenderer.on('problem-list-fetched-fs', function(event, categoryId, result) {
+        console.log("Problem List Fetched for category " + categoryId + " and result");
+        console.log(result);
+        populateList(result["problem-list"]);
+        $(".solve-btn").click(function() {
+            var problemId = $(this).attr("data-problem-id");
+            pager.loadPage("problem", $("#page-container"), {
+                "problemId": problemId,
+                "categoryId": categoryId
+            });
+        });
+
+    });
+
+    
+    ipcRenderer.on('all-problems-fetched', function(event, responseList) {
+        console.log("Total no. of problems: "+responseList.length);
+    });
+
+    /**
+     * Starting background service fsHelper to read data from files
+     */
+    fsHelper.open();
+
+    $(document).ready(function() {
+        fsHelper.getAllCategories();
+        fsHelper.getProblemsByCategoryId(1);
+        fsHelper.getAllProblems();
+
+        $(".show-importer").click(function() {
+            pager.loadPage("importer", $("#page-container"), {});
+        });
+
+        $(".show-configuration").click(function() {
+            pager.loadPage("configuration", $("#page-container"), {});
+        });
+    });
+
+
+
+    /**
+     * Populates problems list in problem-list page
+     */
+    function populateList(json) {
+        $("#question-list").html("");
+        console.log(json);
+        for (var i = 0; i < json.length; i++) {
+            $("#question-list").append(getQuestionItem(json[i]["name"], json[i]["id"]));
+        }
+    }
+</script>

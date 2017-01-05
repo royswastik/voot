@@ -1,0 +1,562 @@
+[
+  {
+    "word": "gadfly ",
+    "pos": "n",
+    "definition": "A person who persistently annoys somebody else; somebody who is irritating."
+  },
+  {
+    "word": "gaffe ",
+    "pos": "n",
+    "definition": "A social blunder; a mistake."
+  },
+  {
+    "word": "gait ",
+    "pos": "n",
+    "definition": "The way that someone or something moves; a particular speed at which something travels."
+  },
+  {
+    "word": "galaxy ",
+    "pos": "n",
+    "definition": "A large system of stars."
+  },
+  {
+    "word": "gale ",
+    "pos": "n",
+    "definition": "A gust of wind; an emotional outburst (usually of laughter, tears, sorrow, etc.)."
+  },
+  {
+    "word": "gallant ",
+    "pos": "adj",
+    "definition": "Courageous and polite; attentive."
+  },
+  {
+    "word": "gallimaufry ",
+    "pos": "n",
+    "definition": "A confused mess; a hodgepodge."
+  },
+  {
+    "word": "galvanize ",
+    "pos": "v",
+    "definition": "To stimulate by shock; to provoke into action; to stir up."
+  },
+  {
+    "word": "gambit ",
+    "pos": "n",
+    "definition": "An opening move in chess in which a piece is sacrificed; an action whose intent is not immediately clear but which is made to produce an intended future advantage."
+  },
+  {
+    "word": "gamely ",
+    "pos": "adj",
+    "definition": "Characterized by lively motion; exhibiting courage."
+  },
+  {
+    "word": "gamut ",
+    "pos": "n",
+    "definition": "The entire range; the entire collection."
+  },
+  {
+    "word": "gangrene ",
+    "pos": "n",
+    "definition": "A condition, caused by an insufficient blood supply, which is characterized by the decay of body tissue."
+  },
+  {
+    "word": "gape ",
+    "pos": "v",
+    "definition": "To open widely, usually referring to the mouth; to stare in wonder with an mouth open."
+  },
+  {
+    "word": "gargantuan ",
+    "pos": "adj",
+    "definition": "Huge; of great size; enormous."
+  },
+  {
+    "word": "gargoyle ",
+    "pos": "n",
+    "definition": "An ornate waterspout, usually carved in the shape of a grotesque figure, and usually found on ornate, medieval structures."
+  },
+  {
+    "word": "garland ",
+    "pos": "n",
+    "definition": "A circle of flowers or leaves, worn around the neck for the purpose of decoration."
+  },
+  {
+    "word": "garment ",
+    "pos": "n",
+    "definition": "An article of clothing."
+  },
+  {
+    "word": "garner ",
+    "pos": "v",
+    "definition": "To gather; to store up."
+  },
+  {
+    "word": "garnish ",
+    "pos": "v",
+    "definition": "To decorate or to promote."
+  },
+  {
+    "word": "garret ",
+    "pos": "n",
+    "definition": "A room; an attic."
+  },
+  {
+    "word": "garrison ",
+    "pos": "n",
+    "definition": "A military post; troops stationed at a military location."
+  },
+  {
+    "word": "garrulity ",
+    "pos": "n",
+    "definition": "Talkativeness; loquacity."
+  },
+  {
+    "word": "garrulous ",
+    "pos": "adj",
+    "definition": "Extremely chatty, especially about ordinary things; overly chatty."
+  },
+  {
+    "word": "gastronome ",
+    "pos": "n",
+    "definition": "A connoisseur of good food."
+  },
+  {
+    "word": "gaucherie ",
+    "pos": "n",
+    "definition": "Socially awkwardness; lack of social etiquette; tactless behavior."
+  },
+  {
+    "word": "gaunt ",
+    "pos": "adj",
+    "definition": "Lean; very bony; emaciated."
+  },
+  {
+    "word": "gavel ",
+    "pos": "n",
+    "definition": "A hammer-like tool that is used by a judge to make a loud sound and to indicate the end of a matter or judgement."
+  },
+  {
+    "word": "gawk ",
+    "pos": "v",
+    "definition": "To stare; to look foolishly at; to look open-mouthed, in awe."
+  },
+  {
+    "word": "gelid ",
+    "pos": "adj",
+    "definition": "Wintry; very cold; icy."
+  },
+  {
+    "word": "generality ",
+    "pos": "n",
+    "definition": "Something that is vague; an approximation; a trite statement."
+  },
+  {
+    "word": "generic ",
+    "pos": "adj",
+    "definition": "Characteristic of an entire class or species; any product that may be sold without a brand name; belonging to a large group of similar objects."
+  },
+  {
+    "word": "genesis ",
+    "pos": "n",
+    "definition": "The beginning; the origin of something."
+  },
+  {
+    "word": "genial ",
+    "pos": "adj",
+    "definition": "Good-tempered; nice; friendly; willing to help."
+  },
+  {
+    "word": "geniality ",
+    "pos": "n",
+    "definition": "Cheerfulness; extreme kindness."
+  },
+  {
+    "word": "genre ",
+    "pos": "n",
+    "definition": "A particular variety of art or literature."
+  },
+  {
+    "word": "gentility ",
+    "pos": "n",
+    "definition": "Eleance; pretentiousness; refinement."
+  },
+  {
+    "word": "gentle ",
+    "pos": "adj",
+    "definition": "Kindly, soft, and non-threatening. "
+  },
+  {
+    "word": "genuflect ",
+    "pos": "v",
+    "definition": "To bend the knee as in worship or to touch the knee to the ground as part of the ritual of prayer."
+  },
+  {
+    "word": "germ ",
+    "pos": "n",
+    "definition": "A seed; the earliest form of something."
+  },
+  {
+    "word": "germane ",
+    "pos": "adj",
+    "definition": "Pertinent; bearing upon the case at hand; appropriate; related to the subject at hand."
+  },
+  {
+    "word": "germinal ",
+    "pos": "adj",
+    "definition": "Beginning; developing."
+  },
+  {
+    "word": "gerontocracy ",
+    "pos": "n",
+    "definition": "A government ruled by old people or by a group of elderly council members."
+  },
+  {
+    "word": "gerontology ",
+    "pos": "n",
+    "definition": "The study of the sociological phenomena that is associated with the elderly and with old age."
+  },
+  {
+    "word": "ghastly ",
+    "pos": "adj",
+    "definition": "Horrible; terrifying."
+  },
+  {
+    "word": "ghoul ",
+    "pos": "n",
+    "definition": "A grave robber."
+  },
+  {
+    "word": "gibberish ",
+    "pos": "n",
+    "definition": "Nonsense; unintelligible talk; sloppy writing; babbling."
+  },
+  {
+    "word": "giddy ",
+    "pos": "adj",
+    "definition": "Not serious; light-hearted."
+  },
+  {
+    "word": "gild ",
+    "pos": "v",
+    "definition": "To cover or decorate with a thin layer of gold."
+  },
+  {
+    "word": "gimcrack ",
+    "pos": "n",
+    "definition": "An ornamental object; something of no practical value."
+  },
+  {
+    "word": "gimmick ",
+    "pos": "n",
+    "definition": "Something that is meant to cheat, deceive, or trick somebody or something; a gadget; a scheme employed to help promote a project, idea, or a cause."
+  },
+  {
+    "word": "girder ",
+    "pos": "n",
+    "definition": "A large beam of steal or metal which is used to reinforce or support a larger structure. "
+  },
+  {
+    "word": "girdle ",
+    "pos": "n",
+    "definition": "A belt worn around the waist; a band of fabric around the waist which is used to support a dress, trousers, etc."
+  },
+  {
+    "word": "girth ",
+    "pos": "n",
+    "definition": "The distance around something; the circumference."
+  },
+  {
+    "word": "gist ",
+    "pos": "n",
+    "definition": "The main point; the central, key idea."
+  },
+  {
+    "word": "glacial ",
+    "pos": "adj",
+    "definition": "Related to a glacier; very cold."
+  },
+  {
+    "word": "glamor ",
+    "pos": "n",
+    "definition": "Compelling charm; attracting beauty."
+  },
+  {
+    "word": "glaring ",
+    "pos": "adj",
+    "definition": "Extremely bright; shining intensely; very vivid."
+  },
+  {
+    "word": "glaze ",
+    "pos": "v",
+    "definition": "To coat with a shiny surface; to cover with caramelized sugar or some other glossy or protective layer."
+  },
+  {
+    "word": "glean ",
+    "pos": "v",
+    "definition": "To collect in small quantities;  to gather over time."
+  },
+  {
+    "word": "gloss ",
+    "pos": "v",
+    "definition": "To give a falsely good appearance to."
+  },
+  {
+    "word": "glossary ",
+    "pos": "n",
+    "definition": "An alphabetical list of special terms and their explanations, most often at the end of a book."
+  },
+  {
+    "word": "glossy ",
+    "pos": "adj",
+    "definition": "Shiny; smooth; unabraisive; reflecting light."
+  },
+  {
+    "word": "glower ",
+    "pos": "v",
+    "definition": "To glare; look or stare angrily and intently."
+  },
+  {
+    "word": "glut ",
+    "pos": "n",
+    "definition": "Overstock; a more than abundant supply."
+  },
+  {
+    "word": "glutinous ",
+    "pos": "adj",
+    "definition": "Sticky; viscous; gluey."
+  },
+  {
+    "word": "glutton ",
+    "pos": "n",
+    "definition": "A person who eats too much food."
+  },
+  {
+    "word": "gory ",
+    "pos": "adj",
+    "definition": "Bloody; stained by blood; extremely violent."
+  },
+  {
+    "word": "gossamer ",
+    "pos": "n",
+    "definition": "A delicate material; a delicate gauze."
+  },
+  {
+    "word": "gouge ",
+    "pos": "v",
+    "definition": "To tear out; to cut out; to remove."
+  },
+  {
+    "word": "gourmand ",
+    "pos": "n",
+    "definition": "An epicure; somebody who takes great pleasure in eating and drinking well; somebody who has a deep knowledge of cuisine."
+  },
+  {
+    "word": "gourmet ",
+    "pos": "n",
+    "definition": "A connoisseur of food and drink."
+  },
+  {
+    "word": "gracious ",
+    "pos": "adj",
+    "definition": "Kind; benevolent; exhibiting manners and style; being understanding and appreciative of those who have less."
+  },
+  {
+    "word": "gradation ",
+    "pos": "n",
+    "definition": "A series of gradual stages; degree in such a progression."
+  },
+  {
+    "word": "grade ",
+    "pos": "n",
+    "definition": "Gradient; a particular degree; a mark; a step."
+  },
+  {
+    "word": "granary ",
+    "pos": "n",
+    "definition": "A storehouse for grain."
+  },
+  {
+    "word": "grandiloquent ",
+    "pos": "adj",
+    "definition": "Related to overly pompous talk; the unnecessary use of difficult words or difficult language."
+  },
+  {
+    "word": "graphite ",
+    "pos": "n",
+    "definition": "A black form of carbon used in pencils."
+  },
+  {
+    "word": "grapple ",
+    "pos": "v",
+    "definition": "To wrestle; to contemplate and to come to terms with; to ponder about in an attempt to understand."
+  },
+  {
+    "word": "grate ",
+    "pos": "v",
+    "definition": "To shred by repeatedly rubbing against a rough or unsmooth surface."
+  },
+  {
+    "word": "gratis ",
+    "pos": "adj",
+    "definition": "Free-of-charge; not requiring a fee."
+  },
+  {
+    "word": "grave ",
+    "pos": "adj",
+    "definition": "Serious; requiring consideration. "
+  },
+  {
+    "word": "gravel ",
+    "pos": "n",
+    "definition": "A loose mixture of small rocks or pebbles."
+  },
+  {
+    "word": "gravid ",
+    "pos": "adj",
+    "definition": "Pregnant; enlarged or burdened with something."
+  },
+  {
+    "word": "gravitas ",
+    "pos": "n",
+    "definition": "Great seriousness."
+  },
+  {
+    "word": "gravity ",
+    "pos": "n",
+    "definition": "The force of attraction between two massive bodies; seriousness."
+  },
+  {
+    "word": "graze ",
+    "pos": "v",
+    "definition": "To brush slightly; to gently scrape or touch."
+  },
+  {
+    "word": "gregarious ",
+    "pos": "adj",
+    "definition": "Sociable; tending to aggregate and form groups; willing to communicate."
+  },
+  {
+    "word": "grievance ",
+    "pos": "n",
+    "definition": "A cause for a complaint; a complaint."
+  },
+  {
+    "word": "grieve ",
+    "pos": "v",
+    "definition": "To lament; to feel grief."
+  },
+  {
+    "word": "grim ",
+    "pos": "adj",
+    "definition": "Causing fear; unrelenting; dismal; gloomy."
+  },
+  {
+    "word": "grimace ",
+    "pos": "n",
+    "definition": "A facial expression that relays a feeling of pain, disgust, or anguish."
+  },
+  {
+    "word": "grisly ",
+    "pos": "adj",
+    "definition": "Ghastly; horrifying; appalling."
+  },
+  {
+    "word": "groove ",
+    "pos": "n",
+    "definition": "A long narrow channel, often for the purpose of directing the movement of some object."
+  },
+  {
+    "word": "gross ",
+    "pos": "n",
+    "definition": "The total amount; the sum; the final calculation."
+  },
+  {
+    "word": "grotto ",
+    "pos": "n",
+    "definition": "A cave; a small cavern; a small recess or shelter-like compartment in the ground."
+  },
+  {
+    "word": "grouch ",
+    "pos": "n",
+    "definition": "A person who constantly complains, bad-tempered complaint; a person who constantly grumbles."
+  },
+  {
+    "word": "grovel ",
+    "pos": "v",
+    "definition": "To behave in an attentive or servile manner; to look after; to behave as if in a state of utter servility."
+  },
+  {
+    "word": "grudge ",
+    "pos": "n",
+    "definition": "A deep feeling of resentment or dislike."
+  },
+  {
+    "word": "grueling ",
+    "pos": "adj",
+    "definition": "Exhausting and exacting."
+  },
+  {
+    "word": "gruesome ",
+    "pos": "adj",
+    "definition": "Grisly; horrific; gross and terrible."
+  },
+  {
+    "word": "guarded ",
+    "pos": "adj",
+    "definition": "Cautious and reserved; noncommittal."
+  },
+  {
+    "word": "guffaw ",
+    "pos": "n",
+    "definition": "Boisterous laughter; a burst of loud laughter."
+  },
+  {
+    "word": "guile ",
+    "pos": "n",
+    "definition": "Deceit; slyness; duplicity; cunning."
+  },
+  {
+    "word": "guile ",
+    "pos": "n",
+    "definition": "Skillful deceit; cunning."
+  },
+  {
+    "word": "gullible ",
+    "pos": "adj",
+    "definition": "Easily deceived; easily conned."
+  },
+  {
+    "word": "guru ",
+    "pos": "n",
+    "definition": "A leader in the field; somebody who is recognized as influential and important. "
+  },
+  {
+    "word": "gush ",
+    "pos": "v",
+    "definition": "To come out in large quantities; to burst out; to flow out quickly and in great quantities."
+  },
+  {
+    "word": "gusher ",
+    "pos": "n",
+    "definition": "A particular object, most often an oil well, that gushes and does not need pumping."
+  },
+  {
+    "word": "gustatory ",
+    "pos": "adj",
+    "definition": "Affecting or relating to the sense of taste."
+  },
+  {
+    "word": "gusto ",
+    "pos": "n",
+    "definition": "Eager enjoyment; zest; enthusiasm."
+  },
+  {
+    "word": "gusty ",
+    "pos": "adj",
+    "definition": "Windy; not stationary; tending to move and being affected by wind."
+  },
+  {
+    "word": "guzzle ",
+    "pos": "v",
+    "definition": "To drink deeply and quickly."
+  }
+]

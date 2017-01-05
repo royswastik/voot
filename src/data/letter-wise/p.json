@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "pablum ",
+    "pos": "n",
+    "definition": "Something that is trite; something simplistic."
+  },
+  {
+    "word": "pacifist ",
+    "pos": "n",
+    "definition": "Somebody who advocates peace; a person who opposes the use of force; a lover."
+  },
+  {
+    "word": "paean ",
+    "pos": "n",
+    "definition": "A song of praise; an expression of triumph."
+  },
+  {
+    "word": "pageant ",
+    "pos": "n",
+    "definition": "An elaborate public spectacle depicting a historical event or conducted for the sake of a competition; a spectacular procession."
+  },
+  {
+    "word": "paladin ",
+    "pos": "n",
+    "definition": "A champion of a cause; a knight-errant."
+  },
+  {
+    "word": "palatable ",
+    "pos": "adj",
+    "definition": "Easily understood; agreeable; pleasing to the taste or senses; acceptable."
+  },
+  {
+    "word": "palate ",
+    "pos": "n",
+    "definition": "The roof of a person's mouth; the sense of taste."
+  },
+  {
+    "word": "palatial ",
+    "pos": "adj",
+    "definition": "Pertaining to or suitable for a palace."
+  },
+  {
+    "word": "paleontology ",
+    "pos": "n",
+    "definition": "The study of fossils and of prehistoric life."
+  },
+  {
+    "word": "palimpsest ",
+    "pos": "n",
+    "definition": "A parchment or piece of writing material used for a second time after the original writing has been erased."
+  },
+  {
+    "word": "palingenesis ",
+    "pos": "n",
+    "definition": "A rebirth; emergence; the state of being born again."
+  },
+  {
+    "word": "pall ",
+    "pos": "v",
+    "definition": "To become boring; to become less interesting. "
+  },
+  {
+    "word": "palliate ",
+    "pos": "v",
+    "definition": "To lessen the severity of."
+  },
+  {
+    "word": "pallid ",
+    "pos": "adj",
+    "definition": "Pale and ashen; wan."
+  },
+  {
+    "word": "palpability ",
+    "pos": "adj",
+    "definition": "Being understandable; being able to be felt, touched, and recognized."
+  },
+  {
+    "word": "palpable ",
+    "pos": "adj",
+    "definition": "Tangible; easily perceptible; obvious."
+  },
+  {
+    "word": "palpitate ",
+    "pos": "v",
+    "definition": "To throb; to tremble and/or beat furiously."
+  },
+  {
+    "word": "paltry ",
+    "pos": "adj",
+    "definition": "Insignificant; petty; negligible."
+  },
+  {
+    "word": "panacea ",
+    "pos": "n",
+    "definition": "A cure-all; a remedy for all diseases; a solution for all problems."
+  },
+  {
+    "word": "panache ",
+    "pos": "n",
+    "definition": "Flair; a seemingly easy manner of doing things; flamboyance."
+  },
+  {
+    "word": "pandemonium ",
+    "pos": "n",
+    "definition": "A ruckus; a wild, noisy commotion; a disorder."
+  },
+  {
+    "word": "panegyric ",
+    "pos": "n",
+    "definition": "A eulogy; a formal praise or oration in honor of somebody else."
+  },
+  {
+    "word": "panjandrum ",
+    "pos": "n",
+    "definition": "A person who believes that he is important; a pretentious official."
+  },
+  {
+    "word": "panoply ",
+    "pos": "n",
+    "definition": "A magnificent array; a display; an ostentatious exhibition."
+  },
+  {
+    "word": "panoramic ",
+    "pos": "adj",
+    "definition": "Pertaining to a complete, unobstructed view of an entire area; a full view."
+  },
+  {
+    "word": "pantheism ",
+    "pos": "n",
+    "definition": "The worship of all gods."
+  },
+  {
+    "word": "pantomime ",
+    "pos": "v",
+    "definition": "The art of acting without dialogue, often with exaggerations."
+  },
+  {
+    "word": "papyrus ",
+    "pos": "n",
+    "definition": "Ancient paper."
+  },
+  {
+    "word": "parable ",
+    "pos": "n",
+    "definition": "A short simple story that teaches a moral."
+  },
+  {
+    "word": "paradox ",
+    "pos": "n",
+    "definition": "Something apparently contradictory in nature; statement that looks false but is actually correct."
+  },
+  {
+    "word": "paragon ",
+    "pos": "n",
+    "definition": "A model of perfection; something that is esteemed and honored."
+  },
+  {
+    "word": "parameter ",
+    "pos": "n",
+    "definition": "An independent variable; an attribute of a system."
+  },
+  {
+    "word": "paramour ",
+    "pos": "n",
+    "definition": "A secret lover."
+  },
+  {
+    "word": "paraphrase ",
+    "pos": "v",
+    "definition": "To restate a passage in one's own words while retaining the original thought and intent of the author."
+  },
+  {
+    "word": "parasite ",
+    "pos": "n",
+    "definition": "An animal or plant that lives on another; something that simphons energy and/or resources from another."
+  },
+  {
+    "word": "parchment ",
+    "pos": "n",
+    "definition": "Writing material made from the skin of a sheep or goat."
+  },
+  {
+    "word": "pare ",
+    "pos": "v",
+    "definition": "To cut away the outer covering or layer; to remove the skin of; to trim using a knife."
+  },
+  {
+    "word": "paregoric ",
+    "pos": "adj",
+    "definition": "A soothing medicine; "
+  },
+  {
+    "word": "pariah ",
+    "pos": "n",
+    "definition": "A rejected and loathed person; somebody who does not fit in well with others."
+  },
+  {
+    "word": "parish ",
+    "pos": "n",
+    "definition": "The area that is under the supervision of a single priest and which is served by one main church."
+  },
+  {
+    "word": "parlance ",
+    "pos": "n",
+    "definition": "The style of language; a manner of speaking; an idiom."
+  },
+  {
+    "word": "parley ",
+    "pos": "n",
+    "definition": "A conference; a discussion; a meeting where two opposing sides discuss and/or argue."
+  },
+  {
+    "word": "parody ",
+    "pos": "n",
+    "definition": "An imitation, often humorous; a spoof; a travesty."
+  },
+  {
+    "word": "paroxysm ",
+    "pos": "n",
+    "definition": "An uncontrollable attack, which can be either of pain or laughter."
+  },
+  {
+    "word": "parquet ",
+    "pos": "n",
+    "definition": "A floor made of wood strips that are laid out in a specific pattern."
+  },
+  {
+    "word": "parricide ",
+    "pos": "n",
+    "definition": "The act of killing one's father, mother, or similar close relative. "
+  },
+  {
+    "word": "parse ",
+    "pos": "v",
+    "definition": "To examine closely; to separate into lots."
+  },
+  {
+    "word": "parsimonious ",
+    "pos": "adj",
+    "definition": "Extremely economical; stingy; sparing; frugal."
+  },
+  {
+    "word": "parsimony ",
+    "pos": "n",
+    "definition": "Stinginess; excessive frugality."
+  },
+  {
+    "word": "partial ",
+    "pos": "adj",
+    "definition": "Favoring one side over another; prejudiced; a particular inclination towards one object or idea over another."
+  },
+  {
+    "word": "partisan ",
+    "pos": "adj",
+    "definition": "One-sided; committed to a party; biased; prejudiced."
+  },
+  {
+    "word": "partition ",
+    "pos": "v",
+    "definition": "To divide into parts; to separate into distinct entities."
+  },
+  {
+    "word": "parvenu ",
+    "pos": "n",
+    "definition": "Somebody who has just become  wealthy; a newly rich person."
+  },
+  {
+    "word": "pastiche ",
+    "pos": "n",
+    "definition": "A literary or musical composition imitating a previous artist, often with a satirical undertone."
+  },
+  {
+    "word": "pastoral ",
+    "pos": "adj",
+    "definition": "Rural; relating to shepherds or to those that herd animals."
+  },
+  {
+    "word": "pastry ",
+    "pos": "n",
+    "definition": "A combination of flour and water that is the basis of many dessert- like tarts, biscuits, etc."
+  },
+  {
+    "word": "pathetic ",
+    "pos": "adj",
+    "definition": "Causing sadness or affecting the emotions."
+  },
+  {
+    "word": "pathogen ",
+    "pos": "n",
+    "definition": "Something that causes disease; a bacteria or virus which causes damage or which inflicts pain and suffering. "
+  },
+  {
+    "word": "pathological ",
+    "pos": "adj",
+    "definition": "Pertaining to or related to disease."
+  },
+  {
+    "word": "patina ",
+    "pos": "n",
+    "definition": "A green crust substance that accumulates on old bronze and copper surfaces."
+  },
+  {
+    "word": "patois ",
+    "pos": "n",
+    "definition": "A local or provincial dialect."
+  },
+  {
+    "word": "patriarch ",
+    "pos": "n",
+    "definition": "The ruler or leader of a family, a tribe, or a group of people; any person regarded as a father or central leader and progenator of a race of people."
+  },
+  {
+    "word": "paucity ",
+    "pos": "adj",
+    "definition": "Scarcity; a lacking of; dearth."
+  },
+  {
+    "word": "pauper ",
+    "pos": "n",
+    "definition": "A very poor person; a peasant."
+  },
+  {
+    "word": "pebble ",
+    "pos": "n",
+    "definition": "A small stone; a rock fragment that has usually been worn down to a small size by erosion."
+  },
+  {
+    "word": "peccadillo ",
+    "pos": "n",
+    "definition": "A small offense or fault; a minor sin; a minor weakness."
+  },
+  {
+    "word": "peccant ",
+    "pos": "adj",
+    "definition": "Sinful or unruly; guilty of violating a rule or violating a standard practice or common mode of conduct."
+  },
+  {
+    "word": "peckish ",
+    "pos": "adj",
+    "definition": "Ill tempered or irritable; easily annoyed."
+  },
+  {
+    "word": "peculate ",
+    "pos": "v",
+    "definition": "To embezzle monetary funds or another person's property."
+  },
+  {
+    "word": "pecuniary ",
+    "pos": "adj",
+    "definition": "Pertaining or related to money."
+  },
+  {
+    "word": "pedagogue ",
+    "pos": "n",
+    "definition": "A teacher; somebody who instructs."
+  },
+  {
+    "word": "pedant ",
+    "pos": "n",
+    "definition": "A teacher who overemphasizes minor details; somebody who focuses and dwells on trivial book knowledge rather than on broad ideas and concepts."
+  },
+  {
+    "word": "pedantic ",
+    "pos": "adj",
+    "definition": "Bookish; showing off learning; marked by an excessive ostentatious concern for book learning; absurdly learned."
+  },
+  {
+    "word": "peddle ",
+    "pos": "v",
+    "definition": "To travel about and to carry items with the intent to sell; to hawk."
+  },
+  {
+    "word": "pedestrian ",
+    "pos": "adj",
+    "definition": "Commonplace; ordinary; trite; unremarkable; overly dull."
+  },
+  {
+    "word": "pediatrician ",
+    "pos": "n",
+    "definition": "A medical doctor who specializes in treating children's diseases."
+  },
+  {
+    "word": "pedigree ",
+    "pos": "n",
+    "definition": "Ancestry; lineage; the classification and identification of progenitors."
+  },
+  {
+    "word": "peer ",
+    "pos": "n",
+    "definition": "A person who has equal standing with another."
+  },
+  {
+    "word": "peerless ",
+    "pos": "adj",
+    "definition": "Without equals; incomparable."
+  },
+  {
+    "word": "peevish ",
+    "pos": "adj",
+    "definition": "Bad-tempered; irritable; easily annoyed."
+  },
+  {
+    "word": "pejorative ",
+    "pos": "adj",
+    "definition": "Negative in connotation; having a belittling effect."
+  },
+  {
+    "word": "pelf ",
+    "pos": "n",
+    "definition": "Currency; wealth; riches, especially if acquired illegally or unscrupulously."
+  },
+  {
+    "word": "penance ",
+    "pos": "n",
+    "definition": "Self-imposed punishment for sin."
+  },
+  {
+    "word": "penchant ",
+    "pos": "n",
+    "definition": "An inclination; a strong liking."
+  },
+  {
+    "word": "pendulous ",
+    "pos": "adj",
+    "definition": "Hanging loosely; suspended; hanging and/or limp."
+  },
+  {
+    "word": "penitent ",
+    "pos": "adj",
+    "definition": "Expressing regret."
+  },
+  {
+    "word": "penology ",
+    "pos": "n",
+    "definition": "The study of prison management and criminal rehabilitation; the study of the punishment of crime."
+  },
+  {
+    "word": "pensive ",
+    "pos": "adj",
+    "definition": "Overly contemplative; thoughtful, often to the extent of being sad."
+  },
+  {
+    "word": "penumbra ",
+    "pos": "n",
+    "definition": "The partial shadow that is caused by an eclipse."
+  },
+  {
+    "word": "penurious ",
+    "pos": "adj",
+    "definition": "Not willing to part with money; stingy; poor; destitute."
+  },
+  {
+    "word": "penury ",
+    "pos": "n",
+    "definition": "Extreme poverty; dearth; scarcity."
+  },
+  {
+    "word": "peon ",
+    "pos": "n",
+    "definition": "An agricultural worker who does not own land; a menial laborer."
+  },
+  {
+    "word": "perceptive ",
+    "pos": "adj",
+    "definition": "Keen; insightful; wise."
+  },
+  {
+    "word": "percolate ",
+    "pos": "v",
+    "definition": "To pass slowly through a sieve; to move through a material that has small holes or openings in it."
+  },
+  {
+    "word": "peregrination ",
+    "pos": "n",
+    "definition": "A trip; a travel; an excursion."
+  },
+  {
+    "word": "perfidious ",
+    "pos": "adj",
+    "definition": "Treacherous; having a faithless or disloyal disposition; tending to cheat, lie, and mislead."
+  },
+  {
+    "word": "perforate ",
+    "pos": "v",
+    "definition": "To pierce; to put a hole through by means of punching, boring, etc."
+  },
+  {
+    "word": "perfunctory ",
+    "pos": "adj",
+    "definition": "Done routinely and as a duty; done with little care; superficial."
+  },
+  {
+    "word": "perilous ",
+    "pos": "adj",
+    "definition": "Extremely dangerous; treacherous and risky."
+  },
+  {
+    "word": "peripheral ",
+    "pos": "adj",
+    "definition": "Of or pertaining to the periphery or border; related to the outer edge, the margin, or some extreme."
+  },
+  {
+    "word": "perish ",
+    "pos": "v",
+    "definition": "To destroy; to disappear completely; to vanquish."
+  },
+  {
+    "word": "perjury ",
+    "pos": "n",
+    "definition": "False testimony that is given while under oath."
+  },
+  {
+    "word": "permeable ",
+    "pos": "adj",
+    "definition": "Able to be penetrated; allowing liquids or gas to pass through; porous."
+  },
+  {
+    "word": "pernicious ",
+    "pos": "adj",
+    "definition": "Harmful; dangerous; deadly."
+  },
+  {
+    "word": "perpetual ",
+    "pos": "adj",
+    "definition": "Lasting for eternity; lasting for an indeterminably long time."
+  },
+  {
+    "word": "perpetuate ",
+    "pos": "v",
+    "definition": "To make perpetual; to make something last for a long time; to cause to remain in existence."
+  },
+  {
+    "word": "persiflage ",
+    "pos": "n",
+    "definition": "Good-natured talk; banter."
+  },
+  {
+    "word": "perspicacious ",
+    "pos": "adj",
+    "definition": "Insightful; penetrating; astute and scholarly."
+  },
+  {
+    "word": "perspicacity ",
+    "pos": "n",
+    "definition": "Keen insight and understanding; quick in perception."
+  },
+  {
+    "word": "perspicuity ",
+    "pos": "n",
+    "definition": "Clearness of expression; freedom from ambiguity."
+  },
+  {
+    "word": "perspicuous ",
+    "pos": "adj",
+    "definition": "Plainly expressed; clear; easy to understand."
+  },
+  {
+    "word": "pertinacious ",
+    "pos": "adj",
+    "definition": "Adhering tenaciously to an action; stubborn; resolute."
+  },
+  {
+    "word": "pertinent ",
+    "pos": "adj",
+    "definition": "Relevant; suitable; allowable."
+  },
+  {
+    "word": "perturb ",
+    "pos": "v",
+    "definition": "To disturb; to dislodge."
+  },
+  {
+    "word": "peruse ",
+    "pos": "v",
+    "definition": "To read carefully."
+  },
+  {
+    "word": "pervasive ",
+    "pos": "adj",
+    "definition": "Having the ability to permeate or the spread throughout."
+  },
+  {
+    "word": "perverse ",
+    "pos": "adj",
+    "definition": "Wicked; against social customs and without regard to manners; stubbornly wrongheaded."
+  },
+  {
+    "word": "perversion ",
+    "pos": "n",
+    "definition": "Corruption; the state of being gross and wrong."
+  },
+  {
+    "word": "pervert ",
+    "pos": "v",
+    "definition": "To corrupt; to misuse; to turn from right to wrong."
+  },
+  {
+    "word": "pest ",
+    "pos": "n",
+    "definition": "A destructive insect or person; a nuisance."
+  },
+  {
+    "word": "pestle ",
+    "pos": "n",
+    "definition": "A tool that is used to grind substances, often herbs or medicines, in a hard bowl."
+  },
+  {
+    "word": "petrify ",
+    "pos": "v",
+    "definition": "To turn into stone; to stun or paralyze."
+  },
+  {
+    "word": "petrous ",
+    "pos": "adj",
+    "definition": "Like a rock; referring to the hardness of a stone or rock; rigid and solid. "
+  },
+  {
+    "word": "petty ",
+    "pos": "adj",
+    "definition": "Trivial; not important; miniscule; irrelevant."
+  },
+  {
+    "word": "petulant ",
+    "pos": "adj",
+    "definition": "Touchy; peevish; ill-tempered; very impatient; unreasonable; unruly."
+  },
+  {
+    "word": "pew ",
+    "pos": "n",
+    "definition": "A bench or seat for the congregation in a church."
+  },
+  {
+    "word": "phalanx ",
+    "pos": "n",
+    "definition": "A military formation in which soldiers form a wall-like defense by overlapping their shields and positioning their long spears to point outwards."
+  },
+  {
+    "word": "phantasm ",
+    "pos": "n",
+    "definition": "A fantasy; an illusion produced by the mind."
+  },
+  {
+    "word": "phantasmagoria ",
+    "pos": "n",
+    "definition": "A collection of imaginary items; a shifting series of phantasms that increase or diminish in size, pass into each other, or dissolve."
+  },
+  {
+    "word": "pharisaical ",
+    "pos": "adj",
+    "definition": "Excessively pious; hypocritical."
+  },
+  {
+    "word": "pharisee ",
+    "pos": "n",
+    "definition": "A self-righteous person; somebody who is of a sect of the Jewish religion that rigidly adheres to the Laws of Moses."
+  },
+  {
+    "word": "phatic ",
+    "pos": "adj",
+    "definition": "Having a function whose sole purpose is to express or convey emotion or to fulfill a social task; lacking informational content."
+  },
+  {
+    "word": "philanderer ",
+    "pos": "n",
+    "definition": "A faithless lover; somebody who tends to flirt."
+  },
+  {
+    "word": "philanthropist ",
+    "pos": "n",
+    "definition": "A lover of mankind. A person who does good deeds for the benefit of all mankind."
+  },
+  {
+    "word": "philatelist ",
+    "pos": "n",
+    "definition": "A person who studies and collects stamps."
+  },
+  {
+    "word": "phlegmatic ",
+    "pos": "adj",
+    "definition": "Calm; not easily disturbed; showing little emotion; having a calm temperament."
+  },
+  {
+    "word": "phobia ",
+    "pos": "n",
+    "definition": "A very strong fear of something."
+  },
+  {
+    "word": "phoenix ",
+    "pos": "n",
+    "definition": "Somebody or something of excellent worth and stature; a supreme idol."
+  },
+  {
+    "word": "picaresque ",
+    "pos": "adj",
+    "definition": "Related to daring, enchanting, and marvelous tales of adventure; involving often humorous mishaps and observations of an otherwise common individual."
+  },
+  {
+    "word": "piebald ",
+    "pos": "adj",
+    "definition": "Of different colors; mottled; speckled."
+  },
+  {
+    "word": "pied ",
+    "pos": "adj",
+    "definition": "Multi-colored; having patches of different colors."
+  },
+  {
+    "word": "pilfer ",
+    "pos": "v",
+    "definition": "To steal, especially items that are of small value."
+  },
+  {
+    "word": "pinnace ",
+    "pos": "n",
+    "definition": "A small boat, usually non-motorized."
+  },
+  {
+    "word": "pious ",
+    "pos": "adj",
+    "definition": "Overly devout; religious; adhering to duty and customs."
+  },
+  {
+    "word": "piquant ",
+    "pos": "adj",
+    "definition": "Agreeably pungent or spicy; provocative; sharp."
+  },
+  {
+    "word": "pique ",
+    "pos": "v",
+    "definition": "To affect with irritation; to wound the pride of; to excite curiosity."
+  },
+  {
+    "word": "piscatorial ",
+    "pos": "adj",
+    "definition": "Pertaining to fishing."
+  },
+  {
+    "word": "pitch ",
+    "pos": "n",
+    "definition": "The sticky substance that is obtained from distilling coal tar or petroleum; the residue that remains after the processing of petroleum products."
+  },
+  {
+    "word": "pith ",
+    "pos": "n",
+    "definition": "Essential part; the fundamental aspect; the core constituent."
+  },
+  {
+    "word": "pithy ",
+    "pos": "adj",
+    "definition": "Concise and meaningful; substantial; meaty; containing ample substance in a compact form."
+  },
+  {
+    "word": "pittance ",
+    "pos": "adj",
+    "definition": "A small amount; an trifling allowance or wage."
+  },
+  {
+    "word": "pivotal ",
+    "pos": "adj",
+    "definition": "Of great relevance or importance; crucial and absolutely necessary; being the key component."
+  },
+  {
+    "word": "placard ",
+    "pos": "n",
+    "definition": "A sign or notice for public display."
+  },
+  {
+    "word": "placate ",
+    "pos": "v",
+    "definition": "To pacify; to bring peace to; to appease."
+  },
+  {
+    "word": "placid ",
+    "pos": "adj",
+    "definition": "Peaceful; calm."
+  },
+  {
+    "word": "plait ",
+    "pos": "v",
+    "definition": "To braid or to interweave."
+  },
+  {
+    "word": "plane ",
+    "pos": "n",
+    "definition": "A carpenter's tool that is used to smooth and level a wooden surface."
+  },
+  {
+    "word": "platitude ",
+    "pos": "n",
+    "definition": "A trite or banal statement; an object that is unoriginal."
+  },
+  {
+    "word": "platonic ",
+    "pos": "adj",
+    "definition": "Purely spiritual; idealistic; theoretical; without sensual desire."
+  },
+  {
+    "word": "plausible ",
+    "pos": "adj",
+    "definition": "Feasible; possibly valid, but sill open to doubt."
+  },
+  {
+    "word": "plead ",
+    "pos": "v",
+    "definition": "To appeal earnestly for; to put forward a plea."
+  },
+  {
+    "word": "pleat ",
+    "pos": "n",
+    "definition": "A fold in a fabric or garment; a purposeful crease in a piece of fabric."
+  },
+  {
+    "word": "plebeian ",
+    "pos": "adj",
+    "definition": "Common; trite; vulgar."
+  },
+  {
+    "word": "plebiscite ",
+    "pos": "n",
+    "definition": "A direct vote by the entire electorate."
+  },
+  {
+    "word": "pledge ",
+    "pos": "n",
+    "definition": "A formal promise; a security to guarantee payment."
+  },
+  {
+    "word": "plenary ",
+    "pos": "adj",
+    "definition": "Attended by all qualified members."
+  },
+  {
+    "word": "plenipotentiary ",
+    "pos": "adj",
+    "definition": "Having full power; characterized with absolute authority."
+  },
+  {
+    "word": "pliable ",
+    "pos": "adj",
+    "definition": "Flexible; able to be changed; easily influenced; adaptable."
+  },
+  {
+    "word": "plight ",
+    "pos": "v",
+    "definition": "To pledge; to give one's honor; to commit to a future deed."
+  },
+  {
+    "word": "plod ",
+    "pos": "v",
+    "definition": "To continue without rest, often in a monotonous way; to continue to move around."
+  },
+  {
+    "word": "ploy ",
+    "pos": "n",
+    "definition": "A plan of attack whose goal it is to gain an advantage."
+  },
+  {
+    "word": "plucky ",
+    "pos": "adj",
+    "definition": "Exhibiting spirit and heart in the face of unfavorable odds."
+  },
+  {
+    "word": "plumage ",
+    "pos": "n",
+    "definition": "The feathers on a bird; the outer covering of a bird."
+  },
+  {
+    "word": "plume ",
+    "pos": "n",
+    "definition": "A feather, often ornamental."
+  },
+  {
+    "word": "plummet ",
+    "pos": "v",
+    "definition": "To fall sharply; to fall straight down without resistance."
+  },
+  {
+    "word": "plump ",
+    "pos": "adj",
+    "definition": "Pleasantly fat; nicely rounded; full in form. "
+  },
+  {
+    "word": "plunge ",
+    "pos": "v",
+    "definition": "To fall or move quickly downward; to move suddenly and with excessive force."
+  },
+  {
+    "word": "plutocracy ",
+    "pos": "n",
+    "definition": "A society ruled by the wealthy."
+  },
+  {
+    "word": "podiatrist ",
+    "pos": "n",
+    "definition": "A doctor who studies and treats disorders of the feet."
+  },
+  {
+    "word": "podium ",
+    "pos": "n",
+    "definition": "A pedestal; a raised platform; a place from which a speech is given or from where a slightly better view is attainable."
+  },
+  {
+    "word": "poise ",
+    "pos": "n",
+    "definition": "Good judgment and composure; overall balance in body and mind."
+  },
+  {
+    "word": "polarize ",
+    "pos": "v",
+    "definition": "To split into opposite extremes; to separate into distinct camps."
+  },
+  {
+    "word": "polish ",
+    "pos": "v",
+    "definition": "To make smooth of shiny by repeated rubbing. "
+  },
+  {
+    "word": "poltroon ",
+    "pos": "n",
+    "definition": "A coward. "
+  },
+  {
+    "word": "polygamist ",
+    "pos": "n",
+    "definition": "Somebody who has more than one partner at any one time."
+  },
+  {
+    "word": "polyglot ",
+    "pos": "n",
+    "definition": "A person who speaks several languages; somebody who is multilingual."
+  },
+  {
+    "word": "poncho ",
+    "pos": "n",
+    "definition": "A one piece blanket-like garment that is worn over the shoulders and which covers the rest of the body."
+  },
+  {
+    "word": "pontifical ",
+    "pos": "adj",
+    "definition": "Relating to a bishop or pope; pompous; pretentious."
+  },
+  {
+    "word": "poppycock ",
+    "pos": "n",
+    "definition": "Nonsense; blabber; balderdash; rubbish."
+  },
+  {
+    "word": "pore ",
+    "pos": "v",
+    "definition": "To study intently; to ponder; to scrutinize."
+  },
+  {
+    "word": "porous ",
+    "pos": "adj",
+    "definition": "Full of pores; allowing passage."
+  },
+  {
+    "word": "portend ",
+    "pos": "v",
+    "definition": "To foretell; to presage."
+  },
+  {
+    "word": "portent ",
+    "pos": "n",
+    "definition": "An omen of am impending important event."
+  },
+  {
+    "word": "portentous ",
+    "pos": "adj",
+    "definition": "Pompous; ominous, or of momentous significance."
+  },
+  {
+    "word": "portly ",
+    "pos": "adj",
+    "definition": "Stout; corpulent; dignified."
+  },
+  {
+    "word": "pose ",
+    "pos": "v",
+    "definition": "To assume; to put up for consideration; to present."
+  },
+  {
+    "word": "poseur ",
+    "pos": "n",
+    "definition": "A person who pretends to be sophisticated; a person who makes a concerted effort to portray himself as elegant."
+  },
+  {
+    "word": "posit ",
+    "pos": "v",
+    "definition": "To postulate; to assume the existence of; to stipulate. "
+  },
+  {
+    "word": "posse ",
+    "pos": "n",
+    "definition": "A group of men who are gathered at the request of a government official or gang-leader and whose goal it is to impose rules or to perform a specific task."
+  },
+  {
+    "word": "posterity ",
+    "pos": "n",
+    "definition": "The future populace or people."
+  },
+  {
+    "word": "postmortem ",
+    "pos": "adj",
+    "definition": "Occurring after death."
+  },
+  {
+    "word": "postulate ",
+    "pos": "v",
+    "definition": "To assume or claim something as being true, without giving proof."
+  },
+  {
+    "word": "posture ",
+    "pos": "n",
+    "definition": "Pose; attitude."
+  },
+  {
+    "word": "potable ",
+    "pos": "adj",
+    "definition": "Suitable for drinking; drinkable."
+  },
+  {
+    "word": "potentate ",
+    "pos": "n",
+    "definition": "A monarch; a sovereign; a ruler."
+  },
+  {
+    "word": "potential ",
+    "pos": "adj",
+    "definition": "Possessing possibilities."
+  },
+  {
+    "word": "potion ",
+    "pos": "n",
+    "definition": "Of dose of some liquid; some amount of some medicinal or otherwise healing ointment; a liquid dose."
+  },
+  {
+    "word": "potpourri ",
+    "pos": "n",
+    "definition": "A mixture composed of several types of items; a heterogeneous mixture."
+  },
+  {
+    "word": "poultice ",
+    "pos": "n",
+    "definition": "A soothing ointment that is applied to irritated, inflamed, and sore parts of the body, usually used to relieve the symptoms of a burn."
+  },
+  {
+    "word": "practical ",
+    "pos": "adj",
+    "definition": "Grounded or based on experience; of or acquired through practice."
+  },
+  {
+    "word": "pragmatist ",
+    "pos": "n",
+    "definition": "A practical person; somebody who is not an idealist."
+  },
+  {
+    "word": "prate ",
+    "pos": "v",
+    "definition": "To talk idly; to jabber; to talk nonsensically; to boast."
+  },
+  {
+    "word": "prattle ",
+    "pos": "v",
+    "definition": "To talk idly; to babble; to mumble; to talk without any sense."
+  },
+  {
+    "word": "preamble ",
+    "pos": "n",
+    "definition": "An introductory statement usually at the beginning of a larger work."
+  },
+  {
+    "word": "precedent ",
+    "pos": "n",
+    "definition": "A person or stature of authority; something that came previously in time and which has become the standard or ideal."
+  },
+  {
+    "word": "precentor ",
+    "pos": "n",
+    "definition": "A person who leads and directs the choir at a church."
+  },
+  {
+    "word": "precepts ",
+    "pos": "n",
+    "definition": "Rules; standards; accepted means of conduct."
+  },
+  {
+    "word": "precinct ",
+    "pos": "n",
+    "definition": "A subdivision of a city; a distinct area that is defined for the purpose of elections or to delineate police jurisdiction."
+  },
+  {
+    "word": "precipice ",
+    "pos": "n",
+    "definition": "A cliff; a sharp cutoff; a risky or dangerous position."
+  },
+  {
+    "word": "precipitant ",
+    "pos": "adj",
+    "definition": "Something that is unduly sudden; rapidly or hastily forward; rash."
+  },
+  {
+    "word": "precise ",
+    "pos": "n",
+    "definition": "Exact; cutting."
+  },
+  {
+    "word": "preclude ",
+    "pos": "v",
+    "definition": "To make impossible; to prevent or prohibit."
+  },
+  {
+    "word": "precocious ",
+    "pos": "adj",
+    "definition": "Characterized by advanced or early development."
+  },
+  {
+    "word": "precursor ",
+    "pos": "adj",
+    "definition": "A fore-runner; something or someone that comes before."
+  },
+  {
+    "word": "precursory ",
+    "pos": "adj",
+    "definition": "Preliminary."
+  },
+  {
+    "word": "predecessor ",
+    "pos": "n",
+    "definition": "Former occupant; something or someone that came before."
+  },
+  {
+    "word": "predetermine ",
+    "pos": "v",
+    "definition": "To determine in advance; predestine; to settle beforehand."
+  },
+  {
+    "word": "predicament ",
+    "pos": "n",
+    "definition": "A difficult situation; a tricky or dangerous scenario."
+  },
+  {
+    "word": "predilection ",
+    "pos": "n",
+    "definition": "A preference; partiality; a bias; a desire of one thing over another."
+  },
+  {
+    "word": "preen ",
+    "pos": "v",
+    "definition": "To make oneself tidy; feel and show self-satisfaction or pride."
+  },
+  {
+    "word": "prefatory ",
+    "pos": "adj",
+    "definition": "Introductory; pertaining to a preface."
+  },
+  {
+    "word": "prefigure ",
+    "pos": "v",
+    "definition": "To foreshadow; to envision beforehand."
+  },
+  {
+    "word": "prehensile ",
+    "pos": "adj",
+    "definition": "Capable of grasping or holding; eager; able to perceive."
+  },
+  {
+    "word": "prelude ",
+    "pos": "n",
+    "definition": "An introduction; a forerunner; something that is preliminary."
+  },
+  {
+    "word": "premeditate ",
+    "pos": "v",
+    "definition": "To plan in advance."
+  },
+  {
+    "word": "premise ",
+    "pos": "n",
+    "definition": "An assumption; a postulate or proposition for an argument."
+  },
+  {
+    "word": "prepossessing ",
+    "pos": "adj",
+    "definition": "Attractive; something that is engaging."
+  },
+  {
+    "word": "preposterous ",
+    "pos": "adj",
+    "definition": "Outrageous; absurd; unreasonable or overly ridiculous."
+  },
+  {
+    "word": "prerogative ",
+    "pos": "n",
+    "definition": "Privilege; an unquestionable right."
+  },
+  {
+    "word": "presage ",
+    "pos": "n",
+    "definition": "A sign of something that is about to happen; an omen; a foreboding about a future event."
+  },
+  {
+    "word": "prescience ",
+    "pos": "n",
+    "definition": "The ability to predict the future; knowledge of actions before they occur."
+  },
+  {
+    "word": "prestige ",
+    "pos": "n",
+    "definition": "Respect or admiration resulting form achievements or reputation."
+  },
+  {
+    "word": "pretension ",
+    "pos": "n",
+    "definition": "A claim or a title to an object; a claim to importance or dignity."
+  },
+  {
+    "word": "pretentious ",
+    "pos": "adj",
+    "definition": "Ostentatious; showy; pompous; making unjustified claims; overly ambitious."
+  },
+  {
+    "word": "pretext ",
+    "pos": "n",
+    "definition": "An excuse; a false, alternative, reason for an action."
+  },
+  {
+    "word": "prevail ",
+    "pos": "v",
+    "definition": "To triumph over; to overthrow; to become victorious."
+  },
+  {
+    "word": "prevaricate ",
+    "pos": "v",
+    "definition": "To lie; to hide the truth; to stray from the right course."
+  },
+  {
+    "word": "prey ",
+    "pos": "n",
+    "definition": "The target of a hunt; a victim."
+  },
+  {
+    "word": "prim ",
+    "pos": "adj",
+    "definition": "Neat and formal; proper; tidy and well-kept."
+  },
+  {
+    "word": "primal ",
+    "pos": "adj",
+    "definition": "First in rank; of highest importance; being the first; the original."
+  },
+  {
+    "word": "primate ",
+    "pos": "n",
+    "definition": "A group of mammals including humans, lemurs, and monkeys."
+  },
+  {
+    "word": "primiparous ",
+    "pos": "adj",
+    "definition": "Bearing a first offspring; a woman who has borne but one child or who is pregnant for the first time."
+  },
+  {
+    "word": "primogeniture ",
+    "pos": "n",
+    "definition": "Seniority by birth; state of being the first-born child; the right of the eldest child."
+  },
+  {
+    "word": "primordial ",
+    "pos": "adj",
+    "definition": "Existing since the beginning."
+  },
+  {
+    "word": "primp ",
+    "pos": "v",
+    "definition": "To groom with care; to adorn; to extemporize."
+  },
+  {
+    "word": "privation ",
+    "pos": "n",
+    "definition": "Lack of the basic necessities or  comforts of life; hardship; the  result of deprivation."
+  },
+  {
+    "word": "privy ",
+    "pos": "adj",
+    "definition": "Made a participant in something secret; belonging to a person in a private capacity."
+  },
+  {
+    "word": "probity ",
+    "pos": "n",
+    "definition": "Uprightness; honesty."
+  },
+  {
+    "word": "proboscis ",
+    "pos": "n",
+    "definition": "The trunk of an elephant; the long snout of certain animals, such as the anteater."
+  },
+  {
+    "word": "proclaim ",
+    "pos": "v",
+    "definition": "To announce; to state or show clearly; to make publicly known."
+  },
+  {
+    "word": "proclivity ",
+    "pos": "n",
+    "definition": "Inclination; tendency."
+  },
+  {
+    "word": "procurator ",
+    "pos": "n",
+    "definition": "A person who is employed to handle the affairs of another; an agent."
+  },
+  {
+    "word": "procure ",
+    "pos": "v",
+    "definition": "To arrive at through effort; to achieve carefully and often unscrupulously."
+  },
+  {
+    "word": "prod ",
+    "pos": "v",
+    "definition": "To poke; to instigate; to stir up."
+  },
+  {
+    "word": "prodigious ",
+    "pos": "adj",
+    "definition": "Enormous; wonderful; extraordinarily large and amazing."
+  },
+  {
+    "word": "prodigy ",
+    "pos": "n",
+    "definition": "A child of exceptional talents; a wonder; a marvel."
+  },
+  {
+    "word": "profiteer ",
+    "pos": "n",
+    "definition": "A person who makes unfairly large profits, usually through unscrupulous means."
+  },
+  {
+    "word": "profound ",
+    "pos": "adj",
+    "definition": "Deep; complex and thought-provoking; thoughtful; life-altering."
+  },
+  {
+    "word": "profundity ",
+    "pos": "n",
+    "definition": "Depth; the condition of being profound."
+  },
+  {
+    "word": "profuse ",
+    "pos": "adj",
+    "definition": "Abundant, lavish."
+  },
+  {
+    "word": "profusion ",
+    "pos": "n",
+    "definition": "A great amount; an overabundance."
+  },
+  {
+    "word": "progenitor ",
+    "pos": "n",
+    "definition": "Ancestor; the person or thing that is responsible for all subsequent relatives."
+  },
+  {
+    "word": "progeny ",
+    "pos": "n",
+    "definition": "Children; offspring; the descendants of a person or of a group of people."
+  },
+  {
+    "word": "prognathous ",
+    "pos": "adj",
+    "definition": "Having a jaw that sticks out; having protrusive teeth."
+  },
+  {
+    "word": "prognosticate ",
+    "pos": "v",
+    "definition": "To predict the future; to foretell future events."
+  },
+  {
+    "word": "prohibitive ",
+    "pos": "adj",
+    "definition": "Preventing an action; forbidding."
+  },
+  {
+    "word": "proletarian ",
+    "pos": "n",
+    "definition": "A member of the non-elite; somebody of the working class; a blue-collar worker."
+  },
+  {
+    "word": "prolix ",
+    "pos": "adj",
+    "definition": "Tiring; unduly long and strung out."
+  },
+  {
+    "word": "prolixity ",
+    "pos": "n",
+    "definition": "Tedious, unnecessary wordiness; diffuse."
+  },
+  {
+    "word": "prominent ",
+    "pos": "adj",
+    "definition": "Protruding outward; noticeable; eminent; widely known."
+  },
+  {
+    "word": "promiscuous ",
+    "pos": "adj",
+    "definition": "Indiscriminate; choosing freely."
+  },
+  {
+    "word": "promote ",
+    "pos": "v",
+    "definition": "To raise in rank; to advance; to advocate; to publicize."
+  },
+  {
+    "word": "prompt ",
+    "pos": "v",
+    "definition": "To cause to happen; to urge; to provoke; to provide a cue for."
+  },
+  {
+    "word": "prone ",
+    "pos": "v",
+    "definition": "Inclined to; likely to suffer from something."
+  },
+  {
+    "word": "prong ",
+    "pos": "n",
+    "definition": "A pointed part; a projection."
+  },
+  {
+    "word": "pronounced ",
+    "pos": "adj",
+    "definition": "Distinct; noticeable; easily detected."
+  },
+  {
+    "word": "proof ",
+    "pos": "n",
+    "definition": "A trial photographic print or otherwise other printed material."
+  },
+  {
+    "word": "prop ",
+    "pos": "n",
+    "definition": "A support; an object placed under or against something to prevent it from falling."
+  },
+  {
+    "word": "propagate ",
+    "pos": "v",
+    "definition": "To spread; to increase in number; to multiply."
+  },
+  {
+    "word": "propensity ",
+    "pos": "n",
+    "definition": "A natural inclination; an inkling."
+  },
+  {
+    "word": "prophetic ",
+    "pos": "adj",
+    "definition": "Having to do with predicting the future."
+  },
+  {
+    "word": "propitiate ",
+    "pos": "v",
+    "definition": "To appease; to conciliate."
+  },
+  {
+    "word": "propitious ",
+    "pos": "adj",
+    "definition": "Auspicious; presenting favorable circumstances; benevolent."
+  },
+  {
+    "word": "proponent ",
+    "pos": "n",
+    "definition": "A supporter of a particular cause; somebody who backs an idea."
+  },
+  {
+    "word": "propriety ",
+    "pos": "n",
+    "definition": "Proper fitness; quality of being proper; correct conduct."
+  },
+  {
+    "word": "propulsive ",
+    "pos": "adj",
+    "definition": "driving forward; having the power to propel."
+  },
+  {
+    "word": "prosaic ",
+    "pos": "adj",
+    "definition": "Something that is unimaginative and uninteresting; dull."
+  },
+  {
+    "word": "prosaic ",
+    "pos": "adj",
+    "definition": "Commonplace, mundane, hackneyed, trite, pedestrian."
+  },
+  {
+    "word": "proscenium ",
+    "pos": "n",
+    "definition": "The part of a stage that is front of curtain."
+  },
+  {
+    "word": "proscribe ",
+    "pos": "v",
+    "definition": "To prohibit; to ostracize; to outlaw."
+  },
+  {
+    "word": "proscribe ",
+    "pos": "v",
+    "definition": "To denounce as dangerous; to condemn as harmful."
+  },
+  {
+    "word": "prosecute ",
+    "pos": "v",
+    "definition": "To confront; to conduct legal proceedings; to begin court action against."
+  },
+  {
+    "word": "proselytize ",
+    "pos": "v",
+    "definition": "To convert to a religion; to cause a person to accept a certain belief."
+  },
+  {
+    "word": "prosody ",
+    "pos": "n",
+    "definition": "The study of the metric structure of a poem or single verse; the art of versification."
+  },
+  {
+    "word": "prosperity ",
+    "pos": "n",
+    "definition": "Success with financial matters, business matters, food production, etc.; a state characterized with positive profits."
+  },
+  {
+    "word": "prosperous ",
+    "pos": "adj",
+    "definition": "Successful; affluent; fertile."
+  },
+  {
+    "word": "prostrate ",
+    "pos": "adj",
+    "definition": "Stretched out full and flat on ground."
+  },
+  {
+    "word": "protagonist ",
+    "pos": "n",
+    "definition": "A supporter; the leader or noticeable supporter of an idea."
+  },
+  {
+    "word": "protean ",
+    "pos": "adj",
+    "definition": "Able to take on many forms; versatile; able to eventually morph into many different forms."
+  },
+  {
+    "word": "protocol ",
+    "pos": "n",
+    "definition": "The normal mode of doing things; diplomatic etiquette."
+  },
+  {
+    "word": "protract ",
+    "pos": "v",
+    "definition": "To prolong; to make longer in terms of time; to draw out."
+  },
+  {
+    "word": "protracted ",
+    "pos": "adj",
+    "definition": "Prolonged; extended."
+  },
+  {
+    "word": "protrude ",
+    "pos": "v",
+    "definition": "To stick out; jut; to project forwards or out from the center of an object."
+  },
+  {
+    "word": "provenance ",
+    "pos": "n",
+    "definition": "A place of origin; the origin or source of something."
+  },
+  {
+    "word": "providence ",
+    "pos": "n",
+    "definition": "The quality of being provident;  preparation for the future;  foresight."
+  },
+  {
+    "word": "provincial ",
+    "pos": "adj",
+    "definition": "Pertaining to a narrow region; limited in scope; unsophisticated."
+  },
+  {
+    "word": "proviso ",
+    "pos": "n",
+    "definition": "A condition as part of an agreement; a stipulation."
+  },
+  {
+    "word": "provocative ",
+    "pos": "adj",
+    "definition": "Arousing the senses; annoying; arousing sexual feelings or strong emotions."
+  },
+  {
+    "word": "provoke ",
+    "pos": "v",
+    "definition": "To make angry; to cite to action; to anger."
+  },
+  {
+    "word": "proximity ",
+    "pos": "n",
+    "definition": "Nearness of one thing to another."
+  },
+  {
+    "word": "proxy ",
+    "pos": "n",
+    "definition": "An authorized agent; an authority to act for another."
+  },
+  {
+    "word": "prude ",
+    "pos": "adj",
+    "definition": "Overly proper or righteous."
+  },
+  {
+    "word": "prudence ",
+    "pos": "n",
+    "definition": "Careful forethought."
+  },
+  {
+    "word": "prudent ",
+    "pos": "adj",
+    "definition": "Cautious; careful."
+  },
+  {
+    "word": "prudish ",
+    "pos": "adj",
+    "definition": "Overly proper; excessively modest."
+  },
+  {
+    "word": "prune ",
+    "pos": "v",
+    "definition": "To cut away; to make smaller; to remove excess; get remove the dead components."
+  },
+  {
+    "word": "pry ",
+    "pos": "v",
+    "definition": "To inquire about in a non-civil manner."
+  },
+  {
+    "word": "pseudonym ",
+    "pos": "n",
+    "definition": "A fictitious name; a pen name."
+  },
+  {
+    "word": "psychiatrist ",
+    "pos": "n",
+    "definition": "A doctor who treats mental diseases; a medical doctor that prescribes medicines for the treatment of mental disorders."
+  },
+  {
+    "word": "psychopathic ",
+    "pos": "adj",
+    "definition": "Dealing with mental disorder."
+  },
+  {
+    "word": "psychosis ",
+    "pos": "n",
+    "definition": "A mental disorder that manifests itself via several symptoms, and which indicates a lapse in normal metal acuity or function."
+  },
+  {
+    "word": "psychosomatic ",
+    "pos": "adj",
+    "definition": "Referring to the influence that the mind has over the body."
+  },
+  {
+    "word": "puerile ",
+    "pos": "adj",
+    "definition": "Childish; immature."
+  },
+  {
+    "word": "pugilistic ",
+    "pos": "adj",
+    "definition": "Pertaining to fighting with one's hands; referring to boxing."
+  },
+  {
+    "word": "pugnacity ",
+    "pos": "n",
+    "definition": "Combativeness; a predisposition to fighting."
+  },
+  {
+    "word": "puissance ",
+    "pos": "n",
+    "definition": "Strength; force; might."
+  },
+  {
+    "word": "pulchritude ",
+    "pos": "n",
+    "definition": "Beauty; comeliness."
+  },
+  {
+    "word": "pulchritudinous ",
+    "pos": "adj",
+    "definition": "Physically stunning."
+  },
+  {
+    "word": "pulmonary ",
+    "pos": "adj",
+    "definition": "Pertaining to the lungs."
+  },
+  {
+    "word": "pulpit ",
+    "pos": "n",
+    "definition": "A raised platform used in preaching, most often found in a church."
+  },
+  {
+    "word": "punctilious ",
+    "pos": "adj",
+    "definition": "Precise; paying attention to trivialities; strict in observing customs."
+  },
+  {
+    "word": "punctuate ",
+    "pos": "v",
+    "definition": "To break the flow of; to stress; to emphasize."
+  },
+  {
+    "word": "pungent ",
+    "pos": "adj",
+    "definition": "Stinging; sharp tasting; strong smelling."
+  },
+  {
+    "word": "punitive ",
+    "pos": "adj",
+    "definition": "Punishing; concerned with punishment."
+  },
+  {
+    "word": "purgatory ",
+    "pos": "n",
+    "definition": "The place where spirits dwell; in terms of religion, a temporary state or place where it is believed that souls reside after one's death and where such souls are cleaned."
+  },
+  {
+    "word": "purge ",
+    "pos": "v",
+    "definition": "To remove; to get rid of; to eliminate."
+  },
+  {
+    "word": "purloin ",
+    "pos": "v",
+    "definition": "To steal; to pilfer."
+  },
+  {
+    "word": "purloined ",
+    "pos": "adj",
+    "definition": "Stolen; embezzled."
+  },
+  {
+    "word": "purport ",
+    "pos": "n",
+    "definition": "The main intention; the purpose; the central meaning of something."
+  },
+  {
+    "word": "purported ",
+    "pos": "adj",
+    "definition": "Claimed but as yet unproven; rumored; alleged."
+  },
+  {
+    "word": "purvey ",
+    "pos": "v",
+    "definition": "To provide food or beverages as part of one's job."
+  },
+  {
+    "word": "purveyor ",
+    "pos": "n",
+    "definition": "A person who provides food items; a caterer."
+  },
+  {
+    "word": "pusillanimous ",
+    "pos": "adj",
+    "definition": "Cowardly; lacking courage; fearful."
+  },
+  {
+    "word": "putative ",
+    "pos": "adj",
+    "definition": "Supposed; inconclusively accepted as true."
+  },
+  {
+    "word": "putrefaction ",
+    "pos": "n",
+    "definition": "The act of becoming rotten or impure."
+  },
+  {
+    "word": "putrefy ",
+    "pos": "v",
+    "definition": "To make impure; to contaminate; to make unusable."
+  },
+  {
+    "word": "putrescent ",
+    "pos": "adj",
+    "definition": "To becoming putrid; to stagnate and become rotten; putrefying."
+  },
+  {
+    "word": "putrid ",
+    "pos": "adj",
+    "definition": "Decaying; rotten; foul."
+  },
+  {
+    "word": "pyre ",
+    "pos": "n",
+    "definition": "A large pile of wood for burning a corpse."
+  },
+  {
+    "word": "pyromaniac ",
+    "pos": "n",
+    "definition": "A person with a strong, sometimes uncontrollable, desire to set things on fire."
+  }
+]

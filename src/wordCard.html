@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>Card</title>
+        <link href='assets/fonts/open-sans.css' rel='stylesheet' type='text/css'>
+        <style>
+            body {
+                overflow: hidden;
+                font-family: 'Open Sans', sans-serif;
+            }
+        </style>
+    </head>
+    <body style="text-align:center;">
+        <h6 class="word"></h6>
+        <p class="description"></p>
+        <p class="pos"></p>
+    </body>
+<script type="text/javascript">
+    /**
+     * This file is used as a background service to import problems into the software
+     */
+    const ipc = require('electron').ipcRenderer;
+    const fs = require('fs');
+    let path = require('path');
+    const glob = require('glob');
+    var CryptoJS = require("crypto-js");
+    const BrowserWindow = require('electron').remote.BrowserWindow;
+    const Config = require('electron-config');
+    const config = new Config();
+    var $ = jQuery = require("./assets/js/jquery.min.js");
+
+    ipc.on('set-word', function(event, wordObj, fromWindowId) {
+            let word = (wordObj["word"])?wordObj["word"]:"";
+            let description = (wordObj["description"])?wordObj["description"]:"";
+            let pos = (wordObj["pos"])?wordObj["pos"]:"";
+            $(".word").text(word);
+            $(".description").text(description);
+            $(".pos").text(pos);
+        });
+
+
+</script>
+
+</html>

@@ -1,0 +1,117 @@
+<html>
+<script type="text/javascript">
+    /**
+     * This file is used as a background service to import problems into the software
+     */
+    const ipc = require('electron').ipcRenderer;
+    const fs = require('fs');
+    let path = require('path');
+    const glob = require('glob');
+    var CryptoJS = require("crypto-js");
+    const BrowserWindow = require('electron').remote.BrowserWindow;
+    const Config = require('electron-config');
+    const config = new Config();
+
+    function showNotification(wordObj){
+        let notObj = {
+                'title': wordObj["word"],
+                'message': "Did you know the meaning?",
+                "wait": true,
+        }
+        for(var key in wordObj){
+            notObj[key] = wordObj[key];
+        }
+        ipc.send('show-notification',notObj );
+        console.log("Sending notification");
+    }
+
+    function generateNotification(preferenceObj, filterObj){
+   //     let wordObj = Random notification;
+        let meta_file = fs.readFileSync('./data/gre-high-freq.json');
+        let result = JSON.parse(meta_file.toString());
+        let index = Math.floor((Math.random() * (result.length-1)) + 0);
+        let wordObj = result[index];
+        
+        // {
+        //         "word": "vicarious",
+        //         "description": "feeling someone else's feeling",
+        //         "pos": "adj"
+        // }; 
+        console.log("Generating notification");
+        showNotification(wordObj);
+    }
+
+    function getRandomWord(json){
+
+    }
+    let preferenceObj = {}, filterObj = {};
+     let timerObjInit;
+     var interval;
+    if(config.has("timer")){
+        timerObjInit = JSON.parse(config.get("timer"));
+        
+        let totalTimeInMiliseconds = getTotalTimeInMiliseconds(timerObjInit);
+        if(totalTimeInMiliseconds>= 10000){
+            interval = setInterval(function(){generateNotification(preferenceObj,filterObj)}, totalTimeInMiliseconds);
+            console.log(timerObjInit);
+        }
+        else{
+            ipc.send("timer-not-set");
+            console.log(totalTimeInMiliseconds);
+        }
+        
+    }
+    else{
+        ipc.send("timer-not-set");
+    }
+    function getTotalTimeInMiliseconds(timerObj){
+        console.log("Calculating total time in miliseconds");
+        console.log(timerObj);
+        let count = 0;
+        if(timerObj.h != null && timerObj.h != 0 && timerObj.h != ""){
+            count += parseInt(timerObj.h)*1000*60*60;
+        }
+        if(timerObj.m != null && timerObj.m != 0 && timerObj.m != ""){
+            count += parseInt(timerObj.m)*1000*60;
+        }
+        if(timerObj.s != null && timerObj.s != 0 && timerObj.s != ""){
+            count += parseInt(timerObj.s)*1000;
+        }
+        console.log(timerObj.s);
+        console.log(timerObj.s != 0);
+        console.log(timerObj.s != "");
+        return count;
+    }
+
+  
+    
+
+    ipc.on('set-new-timer', function(event, timerObjRemote) {
+        console.log("Setting new timer");
+        if(!config.has("timer")){
+            ipc.send("timer-not-set");
+            return;
+        }
+        clearInterval(interval);
+        let timerObj = JSON.parse(config.get("timer"));
+        
+        let totalTimeInMiliseconds = getTotalTimeInMiliseconds(timerObj);
+        if(totalTimeInMiliseconds>= 10000){
+            interval = setInterval(function(){generateNotification(preferenceObj,filterObj)}, totalTimeInMiliseconds);
+            console.log(timerObj);
+        }
+        else{
+            ipc.send("timer-not-set");
+            console.log(totalTimeInMiliseconds);
+        }
+    });
+
+    
+
+    
+
+
+  
+</script>
+
+</html>

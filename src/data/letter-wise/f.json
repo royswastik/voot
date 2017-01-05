@@ -1,0 +1,757 @@
+[
+  {
+    "word": "facetious ",
+    "pos": "adj",
+    "definition": "Joking; not serious; humorous and playful."
+  },
+  {
+    "word": "facile ",
+    "pos": "adj",
+    "definition": "Easily accomplished; effortless."
+  },
+  {
+    "word": "facilitate ",
+    "pos": "v",
+    "definition": "To bring about; to create or to entice; to cause to occur."
+  },
+  {
+    "word": "facsimile ",
+    "pos": "n",
+    "definition": "A copy; a reproduction."
+  },
+  {
+    "word": "faction ",
+    "pos": "n",
+    "definition": "A party of people with a common interest or purpose; a clique."
+  },
+  {
+    "word": "factitious ",
+    "pos": "adj",
+    "definition": "Artificial; not authentic; produced artificially."
+  },
+  {
+    "word": "factotum ",
+    "pos": "n",
+    "definition": "A handyman; a person who is skilled at and who can perform a wide range of jobs."
+  },
+  {
+    "word": "fallacious ",
+    "pos": "adj",
+    "definition": "Based on erroneous information; false."
+  },
+  {
+    "word": "fallible ",
+    "pos": "adj",
+    "definition": "Liable to error; capable of doing wrong."
+  },
+  {
+    "word": "fallow ",
+    "pos": "adj",
+    "definition": "Land that has been plowed but in which nothing has yet been planted."
+  },
+  {
+    "word": "fanaticism ",
+    "pos": "n",
+    "definition": "Excessive zeal; extreme devotion to a cause."
+  },
+  {
+    "word": "fancier ",
+    "pos": "n",
+    "definition": "A person who breeds animals or plants, or who otherwise has a strong interest for something."
+  },
+  {
+    "word": "fanciful ",
+    "pos": "adj",
+    "definition": "Whimsical; visionary; tending to imagine and to daydream."
+  },
+  {
+    "word": "farce ",
+    "pos": "n",
+    "definition": "A broad comedy; a mockery; a humorous play composed of silly events."
+  },
+  {
+    "word": "farouche ",
+    "pos": "adj",
+    "definition": "Fierce and wild; often reserved."
+  },
+  {
+    "word": "farraginous ",
+    "pos": "adj",
+    "definition": "Miscellaneous"
+  },
+  {
+    "word": "farrago ",
+    "pos": "n",
+    "definition": "A mixture of items; a disorganized agglomeration of articles."
+  },
+  {
+    "word": "fashion ",
+    "pos": "v",
+    "definition": "To give shape to; to create; to mold."
+  },
+  {
+    "word": "fastidious ",
+    "pos": "adj",
+    "definition": "Fussy; overly picky and particular; difficult to please."
+  },
+  {
+    "word": "fathom ",
+    "pos": "v",
+    "definition": "To comprehend; to investigate; to contemplate."
+  },
+  {
+    "word": "fathomless ",
+    "pos": "adj",
+    "definition": "So deep that it cannot be measured or understood; unimaginable."
+  },
+  {
+    "word": "fatuous ",
+    "pos": "adj",
+    "definition": "Smug, and unconsciously foolish; unreal."
+  },
+  {
+    "word": "fault ",
+    "pos": "n",
+    "definition": "A weakness; a small error; a minor offense."
+  },
+  {
+    "word": "fauna ",
+    "pos": "n",
+    "definition": "The animals of a period or region."
+  },
+  {
+    "word": "favela ",
+    "pos": "n",
+    "definition": "A slum; scantily built shacks on the outskirts of a city, especially in Brazil."
+  },
+  {
+    "word": "favoritism ",
+    "pos": "n",
+    "definition": "A display of partiality towards a specific, favorite, person."
+  },
+  {
+    "word": "fawning ",
+    "pos": "adj",
+    "definition": "Extreme flattering; obsequious."
+  },
+  {
+    "word": "feat ",
+    "pos": "n",
+    "definition": "Something that is difficult to do; something well done. "
+  },
+  {
+    "word": "febrile ",
+    "pos": "adj",
+    "definition": "Relating to fever."
+  },
+  {
+    "word": "feckless ",
+    "pos": "adj",
+    "definition": "Lacking purpose; not capable of having responsibility; irresponsible."
+  },
+  {
+    "word": "fecund ",
+    "pos": "adj",
+    "definition": "Fertile; producing offspring."
+  },
+  {
+    "word": "fecundity ",
+    "pos": "n",
+    "definition": "Fertility; the quality of being fruitful; being very productive and producing many young."
+  },
+  {
+    "word": "feign ",
+    "pos": "v",
+    "definition": "To pretend; to make believe."
+  },
+  {
+    "word": "feint ",
+    "pos": "n",
+    "definition": "A trick; an act of deception intended to draw the attention away from a military maneuver."
+  },
+  {
+    "word": "felicitous ",
+    "pos": "adj",
+    "definition": "Apt; well chosen; appropriate to the situation at hand."
+  },
+  {
+    "word": "felicity ",
+    "pos": "n",
+    "definition": "Happiness; appropriateness; bliss."
+  },
+  {
+    "word": "felon ",
+    "pos": "n",
+    "definition": "A person who is guilty of a serious crime."
+  },
+  {
+    "word": "feral ",
+    "pos": "adj",
+    "definition": "Not domesticated; wild and potentially uncontrollable."
+  },
+  {
+    "word": "ferment ",
+    "pos": "v",
+    "definition": "To agitate; to become excited; to stir up."
+  },
+  {
+    "word": "ferocity ",
+    "pos": "adj",
+    "definition": "Extremely cruelty and viciousness, likened to that of a wild animal."
+  },
+  {
+    "word": "ferret ",
+    "pos": "v",
+    "definition": "To discover; to make visible; to force out of hiding; to search and make known by persistent attempts."
+  },
+  {
+    "word": "fertile ",
+    "pos": "adj",
+    "definition": "Productive; able to bear children; capable of producing many fruits, seeds, vegetables, etc."
+  },
+  {
+    "word": "fervent ",
+    "pos": "adj",
+    "definition": "Ardent; zealous; enthusiastic; characterized with a desire to learn and inspired to action."
+  },
+  {
+    "word": "festive ",
+    "pos": "adj",
+    "definition": "Joyous; filled with celebration; merry; of or relating to a festival or celebration."
+  },
+  {
+    "word": "festoon ",
+    "pos": "n",
+    "definition": "A garland of leaves or flowers hoisted up in a loop, suspended from two points."
+  },
+  {
+    "word": "fetid ",
+    "pos": "adj",
+    "definition": "Stinking; having a foul and offensive odor."
+  },
+  {
+    "word": "fetter ",
+    "pos": "v",
+    "definition": "To shackle; to chain; to bind."
+  },
+  {
+    "word": "feud ",
+    "pos": "n",
+    "definition": "A long lasting battle, usually between two rivaling factions, family sects, or relatives."
+  },
+  {
+    "word": "fiasco ",
+    "pos": "n",
+    "definition": "A total failure; a debacle; a collapse."
+  },
+  {
+    "word": "fiat ",
+    "pos": "n",
+    "definition": "A command; an arbitrary order; a decree."
+  },
+  {
+    "word": "fickle ",
+    "pos": "adj",
+    "definition": "Something that is prone to change; not grounded; having no faith."
+  },
+  {
+    "word": "fictive ",
+    "pos": "adj",
+    "definition": "Fictional; assumed; adopted in an attempt to mislead."
+  },
+  {
+    "word": "fidelity ",
+    "pos": "n",
+    "definition": "Loyalty; accuracy; conjugal faithfulness."
+  },
+  {
+    "word": "figurative ",
+    "pos": "adj",
+    "definition": "Not literal; metaphorical."
+  },
+  {
+    "word": "figurine ",
+    "pos": "n",
+    "definition": "A small ornamental statue."
+  },
+  {
+    "word": "filch ",
+    "pos": "v",
+    "definition": "To pilfer; to steal objects that are of little value."
+  },
+  {
+    "word": "filibuster ",
+    "pos": "v",
+    "definition": "To block legislation in a lawmaking body by means of making very slow long speeches; to postpone or delay."
+  },
+  {
+    "word": "finale ",
+    "pos": "n",
+    "definition": "Conclusion; the concluding part; the last piece."
+  },
+  {
+    "word": "finesse ",
+    "pos": "n",
+    "definition": "The delicate and orderly way of correctly dealing with a situation or of handling objects; elegance and flair; proper diplomacy."
+  },
+  {
+    "word": "fingerpoint ",
+    "pos": "v",
+    "definition": "To point a finger at; to accuse; to blame."
+  },
+  {
+    "word": "finicky ",
+    "pos": "adj",
+    "definition": "Overly choosy; very particular."
+  },
+  {
+    "word": "finicky ",
+    "pos": "adj",
+    "definition": "Overly particular; fussy; difficult to please."
+  },
+  {
+    "word": "finite ",
+    "pos": "adj",
+    "definition": "Limited; having an end."
+  },
+  {
+    "word": "fission ",
+    "pos": "v",
+    "definition": "The splitting or division of two objects, usually referring to the splitting of cells or of individual molecules."
+  },
+  {
+    "word": "fissure ",
+    "pos": "n",
+    "definition": "A crack; an opening; a crevice."
+  },
+  {
+    "word": "fit ",
+    "pos": "n",
+    "definition": "A sudden outburst of temper; a convulsion caused by epilepsy."
+  },
+  {
+    "word": "flag ",
+    "pos": "v",
+    "definition": "Droop; grow feeble; decline in vigor or strength."
+  },
+  {
+    "word": "flagellate ",
+    "pos": "v",
+    "definition": "To whip as part of a religious punishment or for sexual pleasure; to whip back and forth."
+  },
+  {
+    "word": "flagrant ",
+    "pos": "adj",
+    "definition": "Conspicuously wicked; blatant; outrageous."
+  },
+  {
+    "word": "flail ",
+    "pos": "v",
+    "definition": "To beat wildly; to thresh grain by hand; to slap; to strike quickly."
+  },
+  {
+    "word": "flak ",
+    "pos": "n",
+    "definition": "Criticism; abuse."
+  },
+  {
+    "word": "flamboyant ",
+    "pos": "adj",
+    "definition": "Ornate and expressive; elaborate; richly colored and highly visible."
+  },
+  {
+    "word": "fleece ",
+    "pos": "n",
+    "definition": "A coat or the wool of a sheep."
+  },
+  {
+    "word": "flicker ",
+    "pos": "v",
+    "definition": "To burn unsteadily; to waver back and forth."
+  },
+  {
+    "word": "flighty ",
+    "pos": "adj",
+    "definition": "Whimsical; capricious and frivolous; tending to change ones mind frequently."
+  },
+  {
+    "word": "flippant ",
+    "pos": "adj",
+    "definition": "Lacking respect; without seriousness."
+  },
+  {
+    "word": "flit ",
+    "pos": "v",
+    "definition": "To fly or move lightly; to move quickly."
+  },
+  {
+    "word": "florescence ",
+    "pos": "n",
+    "definition": "The condition or period of flowering."
+  },
+  {
+    "word": "flotilla ",
+    "pos": "n",
+    "definition": "A group of small warships."
+  },
+  {
+    "word": "flotsam ",
+    "pos": "n",
+    "definition": "Drifting wreckage; debris floating on the surface of the water."
+  },
+  {
+    "word": "flounder ",
+    "pos": "v",
+    "definition": "To falter; to proceed clumsily or haphazardly."
+  },
+  {
+    "word": "fluctuate ",
+    "pos": "v",
+    "definition": "To waver; to change constantly; to rise and fall."
+  },
+  {
+    "word": "fluent ",
+    "pos": "adj",
+    "definition": "Smooth and eloquent; spoken, written, or otherwise performed with little effort."
+  },
+  {
+    "word": "flush ",
+    "pos": "n",
+    "definition": "A quick and sudden rapid flow, usually of water."
+  },
+  {
+    "word": "fluster ",
+    "pos": "v",
+    "definition": "To confuse; to make nervous; to bewilder."
+  },
+  {
+    "word": "fluted ",
+    "pos": "adj",
+    "definition": "Having vertical parallel grooves."
+  },
+  {
+    "word": "flux ",
+    "pos": "n",
+    "definition": "A flowing of material; a fluctuation; a state of uncertainty."
+  },
+  {
+    "word": "fodder ",
+    "pos": "n",
+    "definition": "Food for cattle, horses, pigs, etc.; feed for livestock; food given to farm animals."
+  },
+  {
+    "word": "foil ",
+    "pos": "v",
+    "definition": "To thwart; to defeat; to squelch."
+  },
+  {
+    "word": "foist ",
+    "pos": "v",
+    "definition": "To impose upon another by coercion; to palm off; to insert improperly."
+  },
+  {
+    "word": "foliage ",
+    "pos": "n",
+    "definition": "Leaves and branches; biomass."
+  },
+  {
+    "word": "foolhardy ",
+    "pos": "adj",
+    "definition": "Reckless and daring; without logic; risky."
+  },
+  {
+    "word": "foppish ",
+    "pos": "adj",
+    "definition": "Excessively vain about appearance."
+  },
+  {
+    "word": "forage ",
+    "pos": "v",
+    "definition": "To scour the countryside for food; to search for supplies or nourishment."
+  },
+  {
+    "word": "foray ",
+    "pos": "n",
+    "definition": "A blitz raid; a quick military advance."
+  },
+  {
+    "word": "forbear ",
+    "pos": "v",
+    "definition": "To refrain from or to resist; to be patient."
+  },
+  {
+    "word": "forbearance ",
+    "pos": "n",
+    "definition": "Patience; having the willingness to wait."
+  },
+  {
+    "word": "forbidding ",
+    "pos": "adj",
+    "definition": "Appearing fierce and uninviting."
+  },
+  {
+    "word": "ford ",
+    "pos": "n",
+    "definition": "A shallow place in a river which allows for easy passage; a place where a river can be crossed."
+  },
+  {
+    "word": "forensic ",
+    "pos": "adj",
+    "definition": "Suitable or intended for use in a court of law or legal proceedings; intended to be used to combat and investigate crime."
+  },
+  {
+    "word": "foresight ",
+    "pos": "n",
+    "definition": "The ability to foresee future events; prudence in providing for the future."
+  },
+  {
+    "word": "forestall ",
+    "pos": "v",
+    "definition": "To anticipate and to prevent by taking action ahead of time."
+  },
+  {
+    "word": "forge ",
+    "pos": "v",
+    "definition": "To reproduce fraudulently and illegally."
+  },
+  {
+    "word": "formality ",
+    "pos": "n",
+    "definition": "A particular habit that is done out of cermony or long-held beliefs or customs; an impracticality."
+  },
+  {
+    "word": "forswear ",
+    "pos": "v",
+    "definition": "To renounce seriously or under oath."
+  },
+  {
+    "word": "forthright ",
+    "pos": "adj",
+    "definition": "Straightforward and direct; to the point; frank and without unnecessary excess."
+  },
+  {
+    "word": "fortitude ",
+    "pos": "n",
+    "definition": "Courage; strength of mind; resolve."
+  },
+  {
+    "word": "fortuitous ",
+    "pos": "adj",
+    "definition": "Accidental; having happened by chance."
+  },
+  {
+    "word": "forward ",
+    "pos": "adj",
+    "definition": "Presumptuous; daring; bold."
+  },
+  {
+    "word": "foster ",
+    "pos": "v",
+    "definition": "To rear; to raise; to encourage; to promote."
+  },
+  {
+    "word": "foudroyant ",
+    "pos": "adj",
+    "definition": "Studding; dazzling; having a grossly mesmerizing effect."
+  },
+  {
+    "word": "fracas ",
+    "pos": "n",
+    "definition": "A quarrel; a noisy fight; a commotion."
+  },
+  {
+    "word": "fractious ",
+    "pos": "adj",
+    "definition": "Complaining; bad-tempered; readily angered; peevish; irritable; quarrelsome."
+  },
+  {
+    "word": "fracture ",
+    "pos": "n",
+    "definition": "A break, usually in a bone or pipe."
+  },
+  {
+    "word": "frame ",
+    "pos": "v",
+    "definition": "To ensnare, to implicate."
+  },
+  {
+    "word": "franchise ",
+    "pos": "n",
+    "definition": "A license to sell a product in a certain area; a license to open and run a new store for an already existing chain of stores."
+  },
+  {
+    "word": "frantic ",
+    "pos": "adj",
+    "definition": "Wild and out of control; distraught from fear or worry."
+  },
+  {
+    "word": "fraudulent ",
+    "pos": "adj",
+    "definition": "Cheating; illegal; deceitful."
+  },
+  {
+    "word": "freebooter ",
+    "pos": "n",
+    "definition": "A pirate; a buccaneer; a person who goes about looking for plunder."
+  },
+  {
+    "word": "frenetic ",
+    "pos": "adj",
+    "definition": "Frantic; overly excited."
+  },
+  {
+    "word": "fresco ",
+    "pos": "n",
+    "definition": "Painting on wet plaster."
+  },
+  {
+    "word": "friction ",
+    "pos": "n",
+    "definition": "A conflict in opinion; a clash that leads to an argument."
+  },
+  {
+    "word": "frieze ",
+    "pos": "n",
+    "definition": "An ornamental carving on a wall, often depicting humans, animals, gods, and their interaction; the front facade of a classical building."
+  },
+  {
+    "word": "fringe ",
+    "pos": "n",
+    "definition": "An edge; an ornamental border."
+  },
+  {
+    "word": "fritter ",
+    "pos": "v",
+    "definition": "To waste; to reduce or to throw away; to squander."
+  },
+  {
+    "word": "frivolous ",
+    "pos": "adj",
+    "definition": "Not serious; flippant; carefree."
+  },
+  {
+    "word": "frock ",
+    "pos": "n",
+    "definition": "A loose garment or drape, usually worn by monks and/or others of the clergy."
+  },
+  {
+    "word": "frolic ",
+    "pos": "v",
+    "definition": "To play merrily; to jump around happily."
+  },
+  {
+    "word": "frolicsome ",
+    "pos": "adj",
+    "definition": "Gay; playful; merry; frisky; inclined to frolicking."
+  },
+  {
+    "word": "frond ",
+    "pos": "n",
+    "definition": "A large leaf, most often of the fern variety."
+  },
+  {
+    "word": "froward ",
+    "pos": "adj",
+    "definition": "Intractable; disposed to not following orders."
+  },
+  {
+    "word": "frowzy ",
+    "pos": "adj",
+    "definition": "Dirty; untidy; smelling bad."
+  },
+  {
+    "word": "fructuous ",
+    "pos": "adj",
+    "definition": "Fruitful; productive; bountiful."
+  },
+  {
+    "word": "frugal ",
+    "pos": "adj",
+    "definition": "Thrifty; careful; economical."
+  },
+  {
+    "word": "frugality ",
+    "pos": "adj",
+    "definition": "Thriftiness; economy."
+  },
+  {
+    "word": "fruition ",
+    "pos": "n",
+    "definition": "The bearing of fruit; fulfillment; the attainment of something that is or has been desired for a long time."
+  },
+  {
+    "word": "fuddle ",
+    "pos": "v",
+    "definition": "To confuse."
+  },
+  {
+    "word": "fulminate ",
+    "pos": "v",
+    "definition": "To thunder; to explode; issue a severe denunciation."
+  },
+  {
+    "word": "fume ",
+    "pos": "v",
+    "definition": "To show ill anger; to feel hatred."
+  },
+  {
+    "word": "fumigate ",
+    "pos": "v",
+    "definition": "To disinfect by means of fumes; to clear of disease, bacteria, or harmful insects."
+  },
+  {
+    "word": "funambulism ",
+    "pos": "n",
+    "definition": "Tightrope walking."
+  },
+  {
+    "word": "functional ",
+    "pos": "adj",
+    "definition": "For practical use only; having no decoration."
+  },
+  {
+    "word": "fundamental ",
+    "pos": "adj",
+    "definition": "Basic; primary; of primal importance."
+  },
+  {
+    "word": "fungible ",
+    "pos": "adj",
+    "definition": "Freely exchangeable; pertaining to goods that are freely interchangeable with another in satisfying an obligation."
+  },
+  {
+    "word": "furor ",
+    "pos": "n",
+    "definition": "Frenzy; great anger, excitement."
+  },
+  {
+    "word": "furrow ",
+    "pos": "n",
+    "definition": "A shallow and long trench; a deep groove or indentation in the skin, as for example a wrinkle."
+  },
+  {
+    "word": "furtive ",
+    "pos": "adj",
+    "definition": "Done secretly so as not to attract attention; done with stealth."
+  },
+  {
+    "word": "fusillade ",
+    "pos": "n",
+    "definition": "A simultaneous firing of weapons; a discharge or outpouring."
+  },
+  {
+    "word": "fussy ",
+    "pos": "adj",
+    "definition": "Overly picky; easily upset; touchy."
+  },
+  {
+    "word": "fusty ",
+    "pos": "adj",
+    "definition": "Moldy; characterized by an unpleasant smell; musty; sickly with neglect."
+  },
+  {
+    "word": "futile ",
+    "pos": "adj",
+    "definition": "Useless; without hope; ineffectual."
+  }
+]

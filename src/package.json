@@ -1,0 +1,33 @@
+{
+  "name": "vocab-practice",
+  "productName": "Vocab Practice",
+  "description": "Vocab reminder app .",
+  "version": "0.0.1",
+  "author": "Campytech Corp",
+  "copyright": "© 2016, Campytech Inc.",
+  "main": "background.js",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  },
+  "dependencies": {
+    "brace": "^0.7.0",
+    "crypto-js": "^3.1.6",
+    "drag-drop": "^2.11.0",
+    "electron-config": "^0.2.1",
+    "form-serialize": "^0.7.1",
+    "fs-jetpack": "^0.9.0",
+    "glob": "^7.0.5",
+    "node-notifier": "^4.6.0"
+  },
+  "packageNameTemplate": "{{name}}-v{{version}}-{{platform}}-{{arch}}",
+  "osx": {
+    "build": "1",
+    "identifier": "com.campytech.hacker-studio",
+    "LSApplicationCategoryType": "public.app-category.productivity",
+    "//codeSignIdentitiy": {
+      "dmg": "Developer ID Application: Company Name (APPIDENTITY)",
+      "MAS": "3rd Party Mac Developer Application: Company Name (APPIDENTITY)",
+      "MASInstaller": "3rd Party Mac Developer Installer: Company Name (APPIDENTITY)"
+    }
+  }
+}

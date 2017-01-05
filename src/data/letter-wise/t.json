@@ -1,0 +1,702 @@
+[
+  {
+    "word": "tacit ",
+    "pos": "adj",
+    "definition": "Taken for granted; understood without being explicitly stated; not put into words."
+  },
+  {
+    "word": "taciturn ",
+    "pos": "adj",
+    "definition": "Habitually silent; talking little; reserved."
+  },
+  {
+    "word": "tact ",
+    "pos": "n",
+    "definition": "Adept skill in dealing with people; sensitivity and good sense in knowing what to say at the right time."
+  },
+  {
+    "word": "tactful ",
+    "pos": "adj",
+    "definition": "Careful not to cause offence; having the ability to distinguish between what is right and wrong."
+  },
+  {
+    "word": "tactile ",
+    "pos": "adj",
+    "definition": "Pertaining to the organs or sense of touch."
+  },
+  {
+    "word": "talisman ",
+    "pos": "n",
+    "definition": "A charm; an object that is believed to warn off evil or to give special powers."
+  },
+  {
+    "word": "tally ",
+    "pos": "n",
+    "definition": "An official record; a list of events of counted items; an enumeration."
+  },
+  {
+    "word": "tamp ",
+    "pos": "v",
+    "definition": "To lightly tap so as to force downwards."
+  },
+  {
+    "word": "tangential ",
+    "pos": "adj",
+    "definition": "Not central; straying from the main theme."
+  },
+  {
+    "word": "tangible ",
+    "pos": "adj",
+    "definition": "Able to be touched; something that is concrete."
+  },
+  {
+    "word": "tanker ",
+    "pos": "n",
+    "definition": "Ship, plane, or vehicle constructed to transport liquids in bulk."
+  },
+  {
+    "word": "tantamount ",
+    "pos": "adj",
+    "definition": "Equivalent in effect or value"
+  },
+  {
+    "word": "taper ",
+    "pos": "v",
+    "definition": "To gradual decrease; to make or become narrower toward one end."
+  },
+  {
+    "word": "tarnish ",
+    "pos": "v",
+    "definition": "To make or become dull; to make discolored."
+  },
+  {
+    "word": "tarry ",
+    "pos": "v",
+    "definition": "To linger; to delay; to dawdle."
+  },
+  {
+    "word": "tatter ",
+    "pos": "n",
+    "definition": "A torn piece of cloth; a shred."
+  },
+  {
+    "word": "taunt ",
+    "pos": "v",
+    "definition": "To reproach in a contemptuous manner; to to reproach in a sarcastic or hurtful manner."
+  },
+  {
+    "word": "tautology ",
+    "pos": "n",
+    "definition": "A repetition; something that is redundant; something that is always true."
+  },
+  {
+    "word": "tawdry ",
+    "pos": "adj",
+    "definition": "Cheap; shameful."
+  },
+  {
+    "word": "tawny ",
+    "pos": "adj",
+    "definition": "Brownish yellow; dull yellow."
+  },
+  {
+    "word": "taxing ",
+    "pos": "adj",
+    "definition": "Burdensome; demanding; requiring effort."
+  },
+  {
+    "word": "tedium ",
+    "pos": "n",
+    "definition": "Boredom; weariness; dullness."
+  },
+  {
+    "word": "teem ",
+    "pos": "v",
+    "definition": "To abound; to be bountiful; "
+  },
+  {
+    "word": "temper ",
+    "pos": "v",
+    "definition": "To make moderate; to make less severe; to calm."
+  },
+  {
+    "word": "temperament ",
+    "pos": "n",
+    "definition": "A characteristic frame of mind; a person's natural disposition; the set of mental, physical, and emotion traits that are specific to a person."
+  },
+  {
+    "word": "temperate ",
+    "pos": "adj",
+    "definition": "Moderate; exhibiting self control."
+  },
+  {
+    "word": "tempestuous ",
+    "pos": "n",
+    "definition": "Stormy; violent; impassioned."
+  },
+  {
+    "word": "temporize ",
+    "pos": "v",
+    "definition": "An attempt to gain time by postponing an action."
+  },
+  {
+    "word": "tenacious ",
+    "pos": "adj",
+    "definition": "Abiding strongly; holding fast; persistent."
+  },
+  {
+    "word": "tendentious ",
+    "pos": "adj",
+    "definition": "Promoting a particular point of view; biased; having a definite purpose."
+  },
+  {
+    "word": "tender ",
+    "pos": "v",
+    "definition": "To extend; to formally offer or provide."
+  },
+  {
+    "word": "tenet ",
+    "pos": "n",
+    "definition": "A doctrine; dogma; the set of beliefs that are held dear by a group."
+  },
+  {
+    "word": "tenon ",
+    "pos": "v",
+    "definition": "To join; to fasten securely."
+  },
+  {
+    "word": "tensile ",
+    "pos": "adj",
+    "definition": "Able to be stretched and manipulated; capable of being stretched."
+  },
+  {
+    "word": "tenuous ",
+    "pos": "adj",
+    "definition": "Flimsy; weak; unpredictable."
+  },
+  {
+    "word": "tenure ",
+    "pos": "n",
+    "definition": "The holding of an office or real estate; time during which such an office is held; a hold."
+  },
+  {
+    "word": "tepid ",
+    "pos": "adj",
+    "definition": "Barely warm."
+  },
+  {
+    "word": "tepid ",
+    "pos": "adj",
+    "definition": "Lukewarm; not eager."
+  },
+  {
+    "word": "termagant ",
+    "pos": "n",
+    "definition": "A violent, brawling woman."
+  },
+  {
+    "word": "terminal ",
+    "pos": "adj",
+    "definition": "The end; fatal; at the end."
+  },
+  {
+    "word": "termination ",
+    "pos": "n",
+    "definition": "The end; the conclusion of something."
+  },
+  {
+    "word": "terrestrial ",
+    "pos": "adj",
+    "definition": "Relating to the earth."
+  },
+  {
+    "word": "terse ",
+    "pos": "adj",
+    "definition": "Concise and to the point; pithy."
+  },
+  {
+    "word": "tertiary ",
+    "pos": "adj",
+    "definition": "Third in rank."
+  },
+  {
+    "word": "testy ",
+    "pos": "adj",
+    "definition": "Irritable; impatient and annoyed."
+  },
+  {
+    "word": "tether ",
+    "pos": "v",
+    "definition": "To chain; to tie firm; to anchor with a rope or chain."
+  },
+  {
+    "word": "thematic ",
+    "pos": "adj",
+    "definition": "Pertaining to an all-encompassing, umbrella motif, theme, or idea."
+  },
+  {
+    "word": "theoretical ",
+    "pos": "adj",
+    "definition": "Based on theory; impractical; hypothetical."
+  },
+  {
+    "word": "thermal ",
+    "pos": "adj",
+    "definition": "Pertaining to heat; producing warmth."
+  },
+  {
+    "word": "thespian ",
+    "pos": "adj",
+    "definition": "Dramatic; climactic; exciting."
+  },
+  {
+    "word": "thew ",
+    "pos": "n",
+    "definition": "Muscle or sinew (usually used in the plural); muscular power or strength."
+  },
+  {
+    "word": "thrall ",
+    "pos": "n",
+    "definition": "A slave; a serf; a person in bondage."
+  },
+  {
+    "word": "thresh ",
+    "pos": "v",
+    "definition": "To beat or strike, especially using a flail."
+  },
+  {
+    "word": "thrifty ",
+    "pos": "adj",
+    "definition": "Careful about spending; spendthrift; economical."
+  },
+  {
+    "word": "throb ",
+    "pos": "v",
+    "definition": "To beat rapidly; to contract and expand violently; to vibrate; to palpitate."
+  },
+  {
+    "word": "throng ",
+    "pos": "n",
+    "definition": "A large number; a crowd of people or animals."
+  },
+  {
+    "word": "throttle ",
+    "pos": "v",
+    "definition": "To strangle; to choke; to suffocate."
+  },
+  {
+    "word": "thwart ",
+    "pos": "v",
+    "definition": "To block or to impede."
+  },
+  {
+    "word": "timbre ",
+    "pos": "n",
+    "definition": "The quality of a musical tone produced by a musical instrument; the tone characteristic which distinguishes one instrument from other."
+  },
+  {
+    "word": "timorous ",
+    "pos": "adj",
+    "definition": "Fearful; timid; demonstrating fear."
+  },
+  {
+    "word": "tinge ",
+    "pos": "v",
+    "definition": "To give slight color or quality to; to impart a certain quality."
+  },
+  {
+    "word": "tint ",
+    "pos": "n",
+    "definition": "A slight degree or variation in color."
+  },
+  {
+    "word": "tirade ",
+    "pos": "n",
+    "definition": "A diatribe; a harangue; a long, angry, vindictive speech."
+  },
+  {
+    "word": "titanic ",
+    "pos": "adj",
+    "definition": "Huge; of enormous size; gigantic."
+  },
+  {
+    "word": "titillate ",
+    "pos": "v",
+    "definition": "To tickle; to excite pleasantly; to excite agreeably."
+  },
+  {
+    "word": "titter ",
+    "pos": "n",
+    "definition": "A nervous giggle; a restrained laugh."
+  },
+  {
+    "word": "tittup ",
+    "pos": "n",
+    "definition": "A lively movement; a prance."
+  },
+  {
+    "word": "toady ",
+    "pos": "adj",
+    "definition": "Obsequious; overly flattering."
+  },
+  {
+    "word": "tocsin ",
+    "pos": "n",
+    "definition": "A warning signal; a bell that is used to sound an alarm."
+  },
+  {
+    "word": "tolerable ",
+    "pos": "adj",
+    "definition": "Able to be tolerated; neither bad nor good, but mediocre. "
+  },
+  {
+    "word": "tolerate ",
+    "pos": "v",
+    "definition": "To permit; to allow; to acknowledge. "
+  },
+  {
+    "word": "tonic ",
+    "pos": "n",
+    "definition": "A medicine or remedy that is supposed to increase health, strength, or confidence."
+  },
+  {
+    "word": "tonsure ",
+    "pos": "v",
+    "definition": "The act of shaving one's head, especially by persons who are entering a religious order."
+  },
+  {
+    "word": "topography ",
+    "pos": "n",
+    "definition": "The physical features of a region, including the shape of the land the the height of the terrain."
+  },
+  {
+    "word": "topple ",
+    "pos": "v",
+    "definition": "To become unsteady; to fall down; to push over."
+  },
+  {
+    "word": "torment ",
+    "pos": "v",
+    "definition": "To annoy; to vex."
+  },
+  {
+    "word": "torpor ",
+    "pos": "n",
+    "definition": "Lethargy; a state of sluggishness."
+  },
+  {
+    "word": "torque ",
+    "pos": "n",
+    "definition": "The twisting force that arises from the rotation of an object; the moment of a force that results in a rotation."
+  },
+  {
+    "word": "torrid ",
+    "pos": "adj",
+    "definition": "Very hot; scorching; ardent."
+  },
+  {
+    "word": "tortuous ",
+    "pos": "adj",
+    "definition": "Not straightforward; complex; windy."
+  },
+  {
+    "word": "toupee ",
+    "pos": "n",
+    "definition": "A hairpiece intended to cover a bald spot on the head."
+  },
+  {
+    "word": "toxin ",
+    "pos": "n",
+    "definition": "A poisonous substance, most often produced by animals or plants, for use as a defense mechanism."
+  },
+  {
+    "word": "tract ",
+    "pos": "n",
+    "definition": "A religious or political propaganda pamphlet."
+  },
+  {
+    "word": "tractable ",
+    "pos": "adj",
+    "definition": "Docile; easy to manage; easy to mold or to change."
+  },
+  {
+    "word": "traduce ",
+    "pos": "v",
+    "definition": "To expose to slander; to speak poorly of."
+  },
+  {
+    "word": "trajectory ",
+    "pos": "n",
+    "definition": "The path taken by a moving object such as a missile or a bullet."
+  },
+  {
+    "word": "tramp ",
+    "pos": "n",
+    "definition": "A vagrant; somebody who travels about aimlessly."
+  },
+  {
+    "word": "transcendent ",
+    "pos": "adj",
+    "definition": "Above and beyond normal limits; superior; surpassing; above the rest."
+  },
+  {
+    "word": "transcendental ",
+    "pos": "adj",
+    "definition": "Beyond common thought or ideas; unable to be understood by practical experiences; able to be understood through intuition only."
+  },
+  {
+    "word": "transgress ",
+    "pos": "v",
+    "definition": "To break or to go beyond a limit or boundary; to break a rule. "
+  },
+  {
+    "word": "transient ",
+    "pos": "adj",
+    "definition": "Temporary; short-lived; fleeting."
+  },
+  {
+    "word": "translucent ",
+    "pos": "adj",
+    "definition": "Partially transparent."
+  },
+  {
+    "word": "transmogrify ",
+    "pos": "v",
+    "definition": "To change with grotesque or humorous effect; to alter so much to the extent of being ridiculous."
+  },
+  {
+    "word": "transmute ",
+    "pos": "v",
+    "definition": "To transform; change; to alter."
+  },
+  {
+    "word": "transpire ",
+    "pos": "v",
+    "definition": "To become known or publicly apparent; to be revealed."
+  },
+  {
+    "word": "traumatic ",
+    "pos": "adj",
+    "definition": "Shocking; pertaining to a violent injury."
+  },
+  {
+    "word": "travesty ",
+    "pos": "n",
+    "definition": "A fiasco; something that completely misrepresents the truth; a parody."
+  },
+  {
+    "word": "tread ",
+    "pos": "n",
+    "definition": "A particular type or style of walking."
+  },
+  {
+    "word": "treatise ",
+    "pos": "n",
+    "definition": "A formal article which thoroughly analyzes and discusses a specific subject."
+  },
+  {
+    "word": "trek ",
+    "pos": "n",
+    "definition": "A long, difficult journey."
+  },
+  {
+    "word": "trellis ",
+    "pos": "n",
+    "definition": "A latticework onto which climbing plants grown and climb."
+  },
+  {
+    "word": "tremulous ",
+    "pos": "adj",
+    "definition": "Trembling; wavering; fearful."
+  },
+  {
+    "word": "trenchant ",
+    "pos": "adj",
+    "definition": "Forceful; keen; effective."
+  },
+  {
+    "word": "trencherman ",
+    "pos": "n",
+    "definition": "A person with a big appetite; a person who eats a great deal of food."
+  },
+  {
+    "word": "trepidation ",
+    "pos": "n",
+    "definition": "A feeling of excitement; alarm."
+  },
+  {
+    "word": "tribulation ",
+    "pos": "n",
+    "definition": "A state or condition of suffering; an ordeal; an especially difficult trial."
+  },
+  {
+    "word": "tribunal ",
+    "pos": "n",
+    "definition": "A court of justice; a group of lawyers or judges appointed to residue over a specific case."
+  },
+  {
+    "word": "tribune ",
+    "pos": "n",
+    "definition": "In ancient times, a Roman official elected to protect the interests of the common people."
+  },
+  {
+    "word": "trickster ",
+    "pos": "n",
+    "definition": "A person who likes to play practical jokes; a person who cheats others."
+  },
+  {
+    "word": "trident ",
+    "pos": "n",
+    "definition": "A three-pronged spear."
+  },
+  {
+    "word": "trifling ",
+    "pos": "adj",
+    "definition": "Trivial; unimportant; of little worth."
+  },
+  {
+    "word": "trigger ",
+    "pos": "v",
+    "definition": "To start; to set off; to initiate."
+  },
+  {
+    "word": "trite ",
+    "pos": "adj",
+    "definition": "Simple; hackneyed; commonplace; ordinary and unoriginal."
+  },
+  {
+    "word": "triumph ",
+    "pos": "n",
+    "definition": "Victory or success; the attaining of a goal. "
+  },
+  {
+    "word": "troglodyte ",
+    "pos": "n",
+    "definition": "A person who lives in a cave; a cave dweller; somebody who is secluded."
+  },
+  {
+    "word": "trope ",
+    "pos": "n",
+    "definition": "A figurative use of a word; the use of a rhetorical device."
+  },
+  {
+    "word": "troupe ",
+    "pos": "n",
+    "definition": "A group of performers or artists, as in a circus, traveling band, or performance group."
+  },
+  {
+    "word": "truculence ",
+    "pos": "n",
+    "definition": "Aggressiveness; cruelty; ferocity."
+  },
+  {
+    "word": "truism ",
+    "pos": "n",
+    "definition": "A self-evident fact; something that is universally accepted as true."
+  },
+  {
+    "word": "trumpery ",
+    "pos": "adj",
+    "definition": "Decorative; of little value; worthless."
+  },
+  {
+    "word": "truncate ",
+    "pos": "v",
+    "definition": "To cut off; to shorten."
+  },
+  {
+    "word": "truncheon ",
+    "pos": "n",
+    "definition": "A nightstick carried by police; a cudgel; a baton."
+  },
+  {
+    "word": "trunk ",
+    "pos": "n",
+    "definition": "The main wooden stem of a tree; the part of the human body that excludes the legs, arms, and head; the torso."
+  },
+  {
+    "word": "tryst ",
+    "pos": "n",
+    "definition": "A meeting arranged by lovers; arrangement between lovers to meet; a love affair."
+  },
+  {
+    "word": "tuber ",
+    "pos": "n",
+    "definition": "A swollen underground root stem, emanating from a plant such as a tree or potato."
+  },
+  {
+    "word": "tumid ",
+    "pos": "adj",
+    "definition": "Swollen; bombastic; pompous; exaggerated."
+  },
+  {
+    "word": "tumult ",
+    "pos": "n",
+    "definition": "A commotion caused by many people; a riot; a noisy uproar or calamity."
+  },
+  {
+    "word": "turbid ",
+    "pos": "adj",
+    "definition": "Muddy; stirred-up; agitated."
+  },
+  {
+    "word": "turbid ",
+    "pos": "adj",
+    "definition": "Having the sediment disturbed; muddy; thick and cloudy."
+  },
+  {
+    "word": "turgid ",
+    "pos": "adj",
+    "definition": "Swollen; tumid; filled with and under pressure from liquid."
+  },
+  {
+    "word": "turmoil ",
+    "pos": "n",
+    "definition": "Extreme confusion; a commotion."
+  },
+  {
+    "word": "turncoat ",
+    "pos": "n",
+    "definition": "A traitor; a person who changes allegiance to the opposition party."
+  },
+  {
+    "word": "turpitude ",
+    "pos": "n",
+    "definition": "Wickedness; shamefulness; a depraved act."
+  },
+  {
+    "word": "tutelage ",
+    "pos": "n",
+    "definition": "Guardianship; instruction."
+  },
+  {
+    "word": "tutelary ",
+    "pos": "n",
+    "definition": "Custodial; protective."
+  },
+  {
+    "word": "twinge ",
+    "pos": "n",
+    "definition": "An unforeseen attack; a biting surge of  pain."
+  },
+  {
+    "word": "twitch ",
+    "pos": "v",
+    "definition": "To tug or pull at; to pull sharply; to jerk."
+  },
+  {
+    "word": "tycoon ",
+    "pos": "n",
+    "definition": "A wealthy businesman; a wealthy leader or magnate."
+  },
+  {
+    "word": "tyranny ",
+    "pos": "n",
+    "definition": "Oppression; cruel government; a type of government where the ruler is an absolute dictator."
+  },
+  {
+    "word": "tyro ",
+    "pos": "n",
+    "definition": "A beginner; a novice; somebody who is just barely learning a trade."
+  }
+]

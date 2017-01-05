@@ -1,0 +1,432 @@
+[
+  {
+    "word": "habitat ",
+    "pos": "n",
+    "definition": "The natural place of dwelling; the natural home of a plant, animal, species, etc."
+  },
+  {
+    "word": "habituate ",
+    "pos": "v",
+    "definition": "To become accustomed to or to familiarize oneself with; to become addicted; to require."
+  },
+  {
+    "word": "hackney ",
+    "pos": "n",
+    "definition": "A horse that is used for pulling a light carriage or for riding."
+  },
+  {
+    "word": "haggard ",
+    "pos": "adj",
+    "definition": "Exhausted; worn away; wasted away."
+  },
+  {
+    "word": "haggle ",
+    "pos": "v",
+    "definition": "To argue, most often about prices; to bargain, in an attempt to reduce a price."
+  },
+  {
+    "word": "halcyon ",
+    "pos": "n",
+    "definition": "The calm and peaceful before or after a storm."
+  },
+  {
+    "word": "hale ",
+    "pos": "adj",
+    "definition": "Healthy and strong; full of stamina."
+  },
+  {
+    "word": "halfhearted ",
+    "pos": "adj",
+    "definition": "With little enthusiasm; showing no interest, exhibiting little interest or enthusiasm"
+  },
+  {
+    "word": "hallmark ",
+    "pos": "n",
+    "definition": "A conspicuous feature or characteristic which is particular to one object; a well-known mark that indicates a certain standard or quality."
+  },
+  {
+    "word": "hallow ",
+    "pos": "adj",
+    "definition": "Holy; consecrated."
+  },
+  {
+    "word": "hallucination ",
+    "pos": "n",
+    "definition": "A false idea or notion that is not grounded in fact nor reality."
+  },
+  {
+    "word": "halting ",
+    "pos": "adj",
+    "definition": "Hesitant; faltering; not fluent."
+  },
+  {
+    "word": "hamper ",
+    "pos": "v",
+    "definition": "To obstruct; to prevent from progress; to hold back."
+  },
+  {
+    "word": "handbill ",
+    "pos": "n",
+    "definition": "A small, printed sheet or pamphlet distributed by hand."
+  },
+  {
+    "word": "hap ",
+    "pos": "n",
+    "definition": "Chance; luck; fate; an accident."
+  },
+  {
+    "word": "hapless ",
+    "pos": "adj",
+    "definition": "Unfortunate; luckless; in a state of destitute."
+  },
+  {
+    "word": "happenstance ",
+    "pos": "n",
+    "definition": "A circumstantial event; a chance happening."
+  },
+  {
+    "word": "harangue ",
+    "pos": "n",
+    "definition": "A long passionate speech. "
+  },
+  {
+    "word": "harbor ",
+    "pos": "v",
+    "definition": "To offer protection; to give refuge; to hide."
+  },
+  {
+    "word": "hardy ",
+    "pos": "adj",
+    "definition": "Sturdy; robust; able to withstand pressure."
+  },
+  {
+    "word": "harrowing ",
+    "pos": "adj",
+    "definition": "Agonizing; causing distress; unsettling."
+  },
+  {
+    "word": "harry ",
+    "pos": "v",
+    "definition": "To annoy, to torment."
+  },
+  {
+    "word": "hatchet ",
+    "pos": "n",
+    "definition": "A small ax."
+  },
+  {
+    "word": "haughtiness ",
+    "pos": "n",
+    "definition": "Extreme pride; arrogance."
+  },
+  {
+    "word": "haughty ",
+    "pos": "adj",
+    "definition": "Arrogant and conceited; snobbish."
+  },
+  {
+    "word": "haunt ",
+    "pos": "v",
+    "definition": "To frequent; to visit regularly; to repeatedly annoy or to vex."
+  },
+  {
+    "word": "hauteur ",
+    "pos": "n",
+    "definition": "Arrogant manner or spirit; arrogance. "
+  },
+  {
+    "word": "haven ",
+    "pos": "n",
+    "definition": "A place of safety; a place of refuge; a safe harbor where danger is not present."
+  },
+  {
+    "word": "havoc ",
+    "pos": "n",
+    "definition": "Damage or chaos on a large scale; great disorder."
+  },
+  {
+    "word": "hazardous ",
+    "pos": "adj",
+    "definition": "Dangerous; having the ability to inflict serious harm."
+  },
+  {
+    "word": "headlong ",
+    "pos": "adj",
+    "definition": "Hasty; rash; unscrupulously bold."
+  },
+  {
+    "word": "headstrong ",
+    "pos": "adj",
+    "definition": "Willful; stubborn; determined to have one's own way."
+  },
+  {
+    "word": "healthy ",
+    "pos": "adj",
+    "definition": "Possessing good health; healthful."
+  },
+  {
+    "word": "heckler ",
+    "pos": "n",
+    "definition": "A person who verbally harasses somebody else or who harasses a group of people; somebody who interrupts somebody else for the purpose of harassment."
+  },
+  {
+    "word": "hedge ",
+    "pos": "n",
+    "definition": "A dense growth of bushes or plants, usually grown in a such a manner so as to create a boundary."
+  },
+  {
+    "word": "heinous ",
+    "pos": "adj",
+    "definition": "Atrocious; utterly bad; detestable."
+  },
+  {
+    "word": "helm ",
+    "pos": "n",
+    "definition": "The specific place (usually referring to the wheel) of a ship where steering is performed; a position of control and influence."
+  },
+  {
+    "word": "herbaceous ",
+    "pos": "adj",
+    "definition": "Relating to an herb; a plant whose stem is soft and green as opposed to woody; green and leaflike in appearance."
+  },
+  {
+    "word": "herbivorous ",
+    "pos": "adj",
+    "definition": "Eating plants and grains."
+  },
+  {
+    "word": "herd ",
+    "pos": "n",
+    "definition": "A group of animals; a crowd."
+  },
+  {
+    "word": "hermetic ",
+    "pos": "adj",
+    "definition": "Sealed; airtight; not allowing the passage of microbes or contaminants."
+  },
+  {
+    "word": "hermitage ",
+    "pos": "n",
+    "definition": "The home of a hermit."
+  },
+  {
+    "word": "herpetologist ",
+    "pos": "n",
+    "definition": "A person who studies reptiles; a zoologist who studies amphibians and reptiles."
+  },
+  {
+    "word": "heterogeneous ",
+    "pos": "adj",
+    "definition": "Haphazardly composed; composed of dissimilar parts; not uniform throughout."
+  },
+  {
+    "word": "hierarchy ",
+    "pos": "n",
+    "definition": "An arrangement or grouping of things into different classes, categories, levels, etc."
+  },
+  {
+    "word": "highbrow ",
+    "pos": "n",
+    "definition": "A person with superior tastes; a genius; somebody with superior intellect."
+  },
+  {
+    "word": "hindrance ",
+    "pos": "n",
+    "definition": "An obstacle; something that impedes."
+  },
+  {
+    "word": "hindsight ",
+    "pos": "n",
+    "definition": "The realizing of the consequences of an event after it has happened."
+  },
+  {
+    "word": "hinterlands ",
+    "pos": "n",
+    "definition": "Back country; that part of a country that is not developed nor metropolitan."
+  },
+  {
+    "word": "hirsute ",
+    "pos": "adj",
+    "definition": "Shaggy; hairy."
+  },
+  {
+    "word": "histrionic ",
+    "pos": "adj",
+    "definition": "Theatrical; excessively dramatic; relating to actors or acting."
+  },
+  {
+    "word": "hive ",
+    "pos": "n",
+    "definition": "A containment for bees, wasps, hornets, etc."
+  },
+  {
+    "word": "hoard ",
+    "pos": "n",
+    "definition": "A stockpile; a secret stash."
+  },
+  {
+    "word": "hoary ",
+    "pos": "adj",
+    "definition": "Gray or white with old age."
+  },
+  {
+    "word": "hoax ",
+    "pos": "n",
+    "definition": "A trick that is intended to be a joke."
+  },
+  {
+    "word": "hobble ",
+    "pos": "v",
+    "definition": "To limp; to walk in a lame fashion."
+  },
+  {
+    "word": "holism ",
+    "pos": "n",
+    "definition": "A theory that emphasizes the interdependence of the parts of a whole; a theory that whole entities have an existence other than as the sum of their parts."
+  },
+  {
+    "word": "holster ",
+    "pos": "n",
+    "definition": "A leather sheath or case for a pistol or revolver."
+  },
+  {
+    "word": "homage ",
+    "pos": "n",
+    "definition": "Honor and praise; tribute."
+  },
+  {
+    "word": "homely ",
+    "pos": "adj",
+    "definition": "Not good-looking; unattractive; lacking in physical beauty."
+  },
+  {
+    "word": "homeostasis ",
+    "pos": "n",
+    "definition": "The condition in which all parts of a system are in relative stability and equilibrium."
+  },
+  {
+    "word": "homiletics ",
+    "pos": "n",
+    "definition": "The act or art of preaching."
+  },
+  {
+    "word": "homily ",
+    "pos": "n",
+    "definition": "A sermon; a tedious moralizing lecture."
+  },
+  {
+    "word": "homogeneous ",
+    "pos": "adj",
+    "definition": "Of the same kind; uniform in composition; the same throughout."
+  },
+  {
+    "word": "hone ",
+    "pos": "v",
+    "definition": "To sharpen; to make more acute or effective."
+  },
+  {
+    "word": "hoodwink ",
+    "pos": "v",
+    "definition": "To deceive; delude; trick; to cheat."
+  },
+  {
+    "word": "horde ",
+    "pos": "n",
+    "definition": "A crowd; a swarm."
+  },
+  {
+    "word": "horripilation ",
+    "pos": "n",
+    "definition": "The process by which hair bristles in response to cold weather or fear; often referred to as having goose flesh."
+  },
+  {
+    "word": "hortatory ",
+    "pos": "adj",
+    "definition": "Giving strong encouragement; encouraging."
+  },
+  {
+    "word": "horticultural ",
+    "pos": "adj",
+    "definition": "Pertaining to the preservation or maintenance of gardens and plants."
+  },
+  {
+    "word": "host ",
+    "pos": "n",
+    "definition": "An organism in which a parasite lives; someone or something that harbors another. "
+  },
+  {
+    "word": "hover ",
+    "pos": "v",
+    "definition": "To remain suspended; to hang about; to stay stationary in the air in one place."
+  },
+  {
+    "word": "hubbub ",
+    "pos": "n",
+    "definition": "A confused uproar; a loud noise; a confusing mess; a tumult."
+  },
+  {
+    "word": "humane ",
+    "pos": "adj",
+    "definition": "Kind; considerate; humanitarian."
+  },
+  {
+    "word": "humanitarian ",
+    "pos": "n",
+    "definition": "Somebody who is devoted to the promotion and elevation of human welfare."
+  },
+  {
+    "word": "humdrum ",
+    "pos": "adj",
+    "definition": "Dull; monotonous; boring and commonplace."
+  },
+  {
+    "word": "hummock ",
+    "pos": "n",
+    "definition": "A knoll; a small piece of land elevated above the surrounding terrain; a ridge."
+  },
+  {
+    "word": "humor ",
+    "pos": "v",
+    "definition": "To indulge; to comply with another person's wishes; to put somebody into a good mood."
+  },
+  {
+    "word": "hurdle ",
+    "pos": "n",
+    "definition": "A challenge; a difficulty that must be dealt with."
+  },
+  {
+    "word": "husband ",
+    "pos": "v",
+    "definition": "To manage frugally."
+  },
+  {
+    "word": "husk ",
+    "pos": "n",
+    "definition": "The outside, usually worthless, part of an object."
+  },
+  {
+    "word": "hybrid ",
+    "pos": "adj",
+    "definition": "A mixed breed; composed of parts that have varied origins."
+  },
+  {
+    "word": "hymn ",
+    "pos": "n",
+    "definition": "A song of praise."
+  },
+  {
+    "word": "hypercritical ",
+    "pos": "adj",
+    "definition": "Excessively demanding or suspicious; overly picky."
+  },
+  {
+    "word": "hypothetical ",
+    "pos": "adj",
+    "definition": "Based on assumptions; not grounded in facts but based on speculation."
+  },
+  {
+    "word": "hysteria ",
+    "pos": "n",
+    "definition": "Excessive excitement; uncontrollable emotion."
+  }
+]

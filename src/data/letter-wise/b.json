@@ -1,0 +1,722 @@
+[
+  {
+    "word": "bacchanal ",
+    "pos": "n",
+    "definition": "A noisy party with a large amount of alcohol; a large and noisy celebration."
+  },
+  {
+    "word": "badger ",
+    "pos": "v",
+    "definition": "To pester; to annoy continually with demands; to ask repeatedly."
+  },
+  {
+    "word": "badinage ",
+    "pos": "n",
+    "definition": "Teasing conversation; light-spirited banter."
+  },
+  {
+    "word": "bailiwick ",
+    "pos": "n",
+    "definition": "A person's area of knowledge or ability; the jurisdiction of a bailiff."
+  },
+  {
+    "word": "bait ",
+    "pos": "v",
+    "definition": "To harass and tease; to torment; to entice."
+  },
+  {
+    "word": "balderdash ",
+    "pos": "n",
+    "definition": "Nonsense; illogical talk or reasoning."
+  },
+  {
+    "word": "baleful ",
+    "pos": "adj",
+    "definition": "Evil; malignant; inflicting harm."
+  },
+  {
+    "word": "balloon ",
+    "pos": "v",
+    "definition": "To expand like a balloon; to bulge; to increase greatly."
+  },
+  {
+    "word": "balm ",
+    "pos": "n",
+    "definition": "Something that relieves pain; a substance with a pleasant smell, most often derived from tropical plants."
+  },
+  {
+    "word": "balneal ",
+    "pos": "adj",
+    "definition": "Pertaining to bathing; of, or relating to baths."
+  },
+  {
+    "word": "banal ",
+    "pos": "adj",
+    "definition": "Commonplace; trite; ordinary."
+  },
+  {
+    "word": "bandy ",
+    "pos": "v",
+    "definition": "To discuss lightly or glibly; to pass back and forth; to circulate."
+  },
+  {
+    "word": "bane ",
+    "pos": "n",
+    "definition": "Cause of ruin; poison."
+  },
+  {
+    "word": "baneful ",
+    "pos": "adj",
+    "definition": "Causing harm; pernicious."
+  },
+  {
+    "word": "bantering ",
+    "pos": "n",
+    "definition": "Joking talk; good-humored ridiculing; friendly joking."
+  },
+  {
+    "word": "bariatric ",
+    "pos": "adj",
+    "definition": "Of or relating to that branch of medicine that deals with obesity; pertaining or referring to something that is obese."
+  },
+  {
+    "word": "barrage ",
+    "pos": "n",
+    "definition": "Repeated onslaught; an overwhelming, repetitive force."
+  },
+  {
+    "word": "barrister ",
+    "pos": "n",
+    "definition": "A counselor; a student of law who is asked to appear before the court."
+  },
+  {
+    "word": "barterer ",
+    "pos": "n",
+    "definition": "A trader; a person skilled in exchanging goods."
+  },
+  {
+    "word": "base ",
+    "pos": "adj",
+    "definition": "Morally bad; characterized by a lack of human decency."
+  },
+  {
+    "word": "bask ",
+    "pos": "v",
+    "definition": "To take pleasure in."
+  },
+  {
+    "word": "bastion ",
+    "pos": "n",
+    "definition": "A stronghold; protection; a fortified position."
+  },
+  {
+    "word": "bazaar ",
+    "pos": "n",
+    "definition": "A marketplace; a store where many different types of items are for sale."
+  },
+  {
+    "word": "beatify ",
+    "pos": "v",
+    "definition": "To bless with happiness; to make blissful."
+  },
+  {
+    "word": "bedraggle ",
+    "pos": "v",
+    "definition": "To make dirty; to wet thoroughly."
+  },
+  {
+    "word": "beeline ",
+    "pos": "n",
+    "definition": "A direct quick route between any two points."
+  },
+  {
+    "word": "befriend ",
+    "pos": "v",
+    "definition": "To acquire as a friend; to act as a friend towards."
+  },
+  {
+    "word": "beget ",
+    "pos": "v",
+    "definition": "To father; to produce or to procure; to give rise to."
+  },
+  {
+    "word": "beguile ",
+    "pos": "v",
+    "definition": "To deceive; to deliberately tell a lie with the intent to mislead or delude."
+  },
+  {
+    "word": "behemoth ",
+    "pos": "n",
+    "definition": "A huge creature; something of monstrous size or power."
+  },
+  {
+    "word": "belated ",
+    "pos": "adj",
+    "definition": "Delayed; tardy."
+  },
+  {
+    "word": "beleaguer ",
+    "pos": "v",
+    "definition": "To besiege; to attack; harass; to best."
+  },
+  {
+    "word": "belfry ",
+    "pos": "n",
+    "definition": "The bell tower of a church."
+  },
+  {
+    "word": "belie ",
+    "pos": "v",
+    "definition": "To contradict; to give a false impression of; to lie."
+  },
+  {
+    "word": "belittle ",
+    "pos": "v",
+    "definition": "To criticize; to berate; to speak of as if not important."
+  },
+  {
+    "word": "bellicose ",
+    "pos": "adj",
+    "definition": "Belligerent; waging war; willing and eager to fight."
+  },
+  {
+    "word": "belligerent ",
+    "pos": "adj",
+    "definition": "Quarrelsome; engaged or eager for battle."
+  },
+  {
+    "word": "bemused ",
+    "pos": "adj",
+    "definition": "Confused; lost in thought."
+  },
+  {
+    "word": "benefactor ",
+    "pos": "n",
+    "definition": "Somebody who gives; a patron; a supporter of a certain cause that contributes in terms of money."
+  },
+  {
+    "word": "beneficent ",
+    "pos": "adj",
+    "definition": "Kindly; doing good; benevolent."
+  },
+  {
+    "word": "benevolence ",
+    "pos": "n",
+    "definition": "Kindness; the thought of doing something well or for the sake of others; generosity that is directed towards others."
+  },
+  {
+    "word": "benevolent ",
+    "pos": "adj",
+    "definition": "Generous; charitable; characterized by a willingness to give."
+  },
+  {
+    "word": "benign ",
+    "pos": "adj",
+    "definition": "Not dangerous; kind; favorable."
+  },
+  {
+    "word": "benison ",
+    "pos": "n",
+    "definition": "A blessing; benediction; a prayer."
+  },
+  {
+    "word": "bent ",
+    "pos": "adj",
+    "definition": "Determined; set; resolved."
+  },
+  {
+    "word": "bequeath ",
+    "pos": "v",
+    "definition": "To hand down; to leave someone a portion of one's wealth after death."
+  },
+  {
+    "word": "berate ",
+    "pos": "v",
+    "definition": "To scold strongly; to criticize."
+  },
+  {
+    "word": "beseech ",
+    "pos": "v",
+    "definition": "To beg; to plead; to appeal urgently."
+  },
+  {
+    "word": "besiege ",
+    "pos": "v",
+    "definition": "To surround with an army or armed forces; to harass; annoy continually."
+  },
+  {
+    "word": "besmirch ",
+    "pos": "v",
+    "definition": "Soil; to charge falsely; to make dirty."
+  },
+  {
+    "word": "besot ",
+    "pos": "v",
+    "definition": "Infatuate, to obsess."
+  },
+  {
+    "word": "best ",
+    "pos": "v",
+    "definition": "To defeat; to outwit; to outsmart; to claim victory.  "
+  },
+  {
+    "word": "bestial ",
+    "pos": "adj",
+    "definition": "Savage; brutal; carnal."
+  },
+  {
+    "word": "bestow ",
+    "pos": "v",
+    "definition": "To confer upon; to give; to pass down."
+  },
+  {
+    "word": "betray ",
+    "pos": "v",
+    "definition": "to reveal; to be promiscuous; to be unfaithful to a cause or person."
+  },
+  {
+    "word": "bevy ",
+    "pos": "n",
+    "definition": "A large group; a big collection."
+  },
+  {
+    "word": "bewilder ",
+    "pos": "v",
+    "definition": "To puzzle; to confuse. "
+  },
+  {
+    "word": "bewitch ",
+    "pos": "v",
+    "definition": "TO cast a spell over; to completely captivate."
+  },
+  {
+    "word": "bicameral ",
+    "pos": "adj",
+    "definition": "Two-chambered, most often referring to a legislative body."
+  },
+  {
+    "word": "bicker ",
+    "pos": "v",
+    "definition": "To quarrel; to argue aimlessly."
+  },
+  {
+    "word": "biennial ",
+    "pos": "adj",
+    "definition": "Occurring every two years."
+  },
+  {
+    "word": "bifurcated ",
+    "pos": "adj",
+    "definition": "Forked; having two branches."
+  },
+  {
+    "word": "bigot ",
+    "pos": "n",
+    "definition": "A narrow-minded person; somebody who is unwilling to listen to the religious or political opinions of others."
+  },
+  {
+    "word": "bigotry ",
+    "pos": "n",
+    "definition": "Intolerance towards another person's ideas or beliefs."
+  },
+  {
+    "word": "bilge ",
+    "pos": "n",
+    "definition": "The rounded areas that form the bottom and sides on the exterior of a ship's hull."
+  },
+  {
+    "word": "bilious ",
+    "pos": "adj",
+    "definition": "Suffering from indigestion; irritable; easily irritated; liable to explode."
+  },
+  {
+    "word": "bilk ",
+    "pos": "v",
+    "definition": "To cheat; to swindle; to haggle unscrupulously."
+  },
+  {
+    "word": "billet-doux ",
+    "pos": "n",
+    "definition": "A love letter; a note from a lover."
+  },
+  {
+    "word": "biting ",
+    "pos": "adj",
+    "definition": "Sharply painful to the body or to the mind."
+  },
+  {
+    "word": "bizarre ",
+    "pos": "adj",
+    "definition": "Fantastic; extremely odd; unconventional; perplexing."
+  },
+  {
+    "word": "blackguard ",
+    "pos": "n",
+    "definition": "A rude person; a scoundrel; a person who uses profane language. "
+  },
+  {
+    "word": "blackmail ",
+    "pos": "v",
+    "definition": "To extort; to threaten in an attempt to gain money. "
+  },
+  {
+    "word": "blandishment ",
+    "pos": "n",
+    "definition": "Flattery, with an intention to persuade; to urge to action."
+  },
+  {
+    "word": "blast ",
+    "pos": "n",
+    "definition": "A strong current of wind; a forcible stream of air or gas; an explosion of air, steam, or gas."
+  },
+  {
+    "word": "bleak ",
+    "pos": "adj",
+    "definition": "Cold; seemingly hopeless; depressing."
+  },
+  {
+    "word": "blithe ",
+    "pos": "adj",
+    "definition": "Cheerful; joyous; carefree."
+  },
+  {
+    "word": "bloated ",
+    "pos": "adj",
+    "definition": "Swollen; filled with water or air; overfilled."
+  },
+  {
+    "word": "bludgeon ",
+    "pos": "n",
+    "definition": "A club; a heavy, blunt weapon."
+  },
+  {
+    "word": "blueprint ",
+    "pos": "n",
+    "definition": "A detailed plan of action; a schematic or detailed diagram."
+  },
+  {
+    "word": "blues ",
+    "pos": "n",
+    "definition": "State of depression or melancholy; sorrows."
+  },
+  {
+    "word": "bluff ",
+    "pos": "n",
+    "definition": "A lie; a deception."
+  },
+  {
+    "word": "blunder ",
+    "pos": "n",
+    "definition": "An error; a mistake; a gaffe. "
+  },
+  {
+    "word": "blunt ",
+    "pos": "adj",
+    "definition": "Having a dull edge; abrupt and frank in speech."
+  },
+  {
+    "word": "blurt ",
+    "pos": "v",
+    "definition": "To exclaim abruptly; to utter impulsively; to yell out from fear or embarassment."
+  },
+  {
+    "word": "blush ",
+    "pos": "v",
+    "definition": "To become red, usually referring to somebody who is bashful or who becomes embarrassed and whose face turns red or rosy."
+  },
+  {
+    "word": "bluster ",
+    "pos": "v",
+    "definition": "To bully; to threaten; to domineer."
+  },
+  {
+    "word": "bog ",
+    "pos": "n",
+    "definition": "Soft wet land; a swamp; a wet area without any moving water."
+  },
+  {
+    "word": "bohemian ",
+    "pos": "adj",
+    "definition": "Unconventional; revolutionary in terms of art."
+  },
+  {
+    "word": "bolide ",
+    "pos": "n",
+    "definition": "A large meteor; a fireball that eventually explodes."
+  },
+  {
+    "word": "bolster ",
+    "pos": "v",
+    "definition": "To support; to reinforce; to give momentum to."
+  },
+  {
+    "word": "bolt ",
+    "pos": "v",
+    "definition": "To dash off; to dart off; to fasten."
+  },
+  {
+    "word": "bombast ",
+    "pos": "adj",
+    "definition": "Grandiloquent, pompous; overly showy and expressive."
+  },
+  {
+    "word": "bondage ",
+    "pos": "n",
+    "definition": "The state in which somebody is bound as a slave or a serf; servitude. "
+  },
+  {
+    "word": "bookish ",
+    "pos": "adj",
+    "definition": "Fond of books and reading."
+  },
+  {
+    "word": "boon ",
+    "pos": "n",
+    "definition": "A favor; a blessing; a wish granted by a god."
+  },
+  {
+    "word": "boor ",
+    "pos": "n",
+    "definition": "A rude, unrefined person, often with bad manners."
+  },
+  {
+    "word": "boorish ",
+    "pos": "adj",
+    "definition": "Rude and crass; insensitive and inconsiderate."
+  },
+  {
+    "word": "bountiful ",
+    "pos": "adj",
+    "definition": "Generous; Gracious; plentiful."
+  },
+  {
+    "word": "bout ",
+    "pos": "n",
+    "definition": "A match; a fight; a period of heightened activity."
+  },
+  {
+    "word": "bow ",
+    "pos": "n",
+    "definition": "The front part of a ship."
+  },
+  {
+    "word": "bowdlerize ",
+    "pos": "v",
+    "definition": "To modify; to clean up; to amend by removing certain parts."
+  },
+  {
+    "word": "boycott ",
+    "pos": "v",
+    "definition": "To abstain from use; to refuse to partake in."
+  },
+  {
+    "word": "brace ",
+    "pos": "v",
+    "definition": "To hold up; to prepare."
+  },
+  {
+    "word": "brackish ",
+    "pos": "adj",
+    "definition": "Having a salty taste; distasteful."
+  },
+  {
+    "word": "brag ",
+    "pos": "v",
+    "definition": "To boast; to speak highly of."
+  },
+  {
+    "word": "braggadocio ",
+    "pos": "n",
+    "definition": "Boasting, usually vain and meaningless."
+  },
+  {
+    "word": "braggart ",
+    "pos": "n",
+    "definition": "A person who boasts; a bragger."
+  },
+  {
+    "word": "braid ",
+    "pos": "v",
+    "definition": "To interweave strands; to make by weaving strands together."
+  },
+  {
+    "word": "brash ",
+    "pos": "adj",
+    "definition": "Hasty; done without contemplation; harsh."
+  },
+  {
+    "word": "bravado ",
+    "pos": "n",
+    "definition": "Swagger; a pretentious display of courage; an attitude of defiance; a false show of bravery."
+  },
+  {
+    "word": "brawn ",
+    "pos": "n",
+    "definition": "Muscular strength; sturdiness; muscular power."
+  },
+  {
+    "word": "brawny ",
+    "pos": "adj",
+    "definition": "Muscular; having well-developed muscles."
+  },
+  {
+    "word": "brazen ",
+    "pos": "adj",
+    "definition": "Insolent; bold."
+  },
+  {
+    "word": "breach ",
+    "pos": "n",
+    "definition": "The breaking of a contract or duty; a fissure; a gap; an opening."
+  },
+  {
+    "word": "bricolage ",
+    "pos": "n",
+    "definition": "An object that is constructed using whatever materials are available at the time."
+  },
+  {
+    "word": "bridle ",
+    "pos": "v",
+    "definition": "To control or restrain; to show anger."
+  },
+  {
+    "word": "brilliant ",
+    "pos": "adj",
+    "definition": "Very smart; very vivid; bright and showy. "
+  },
+  {
+    "word": "brim ",
+    "pos": "n",
+    "definition": "The uppermost edge of a cup, bowl, or other saucer-like object; a protruding edge."
+  },
+  {
+    "word": "brink ",
+    "pos": "n",
+    "definition": "The edge; the rim."
+  },
+  {
+    "word": "bristle ",
+    "pos": "n",
+    "definition": "Short stiff hair."
+  },
+  {
+    "word": "brittle ",
+    "pos": "adj",
+    "definition": "Easily broken; malleable."
+  },
+  {
+    "word": "broach ",
+    "pos": "v",
+    "definition": "To introduce; to moot; to begin a discussion upon."
+  },
+  {
+    "word": "brobdingnagian ",
+    "pos": "adj",
+    "definition": "Enormous; very large."
+  },
+  {
+    "word": "brocade ",
+    "pos": "n",
+    "definition": "A fabric that is richly ornamented or which has ornate, raised patterns."
+  },
+  {
+    "word": "brood ",
+    "pos": "v",
+    "definition": "To sit on with an intent to hatch; to think deeply about; to ponder."
+  },
+  {
+    "word": "brook ",
+    "pos": "v",
+    "definition": "To tolerate; to endure."
+  },
+  {
+    "word": "browbeat ",
+    "pos": "v",
+    "definition": "To bully; intimidate; to discourage by means of threats."
+  },
+  {
+    "word": "browse ",
+    "pos": "v",
+    "definition": "To graze; to feed on growing vegetation; to glance at casually."
+  },
+  {
+    "word": "brusque ",
+    "pos": "adj",
+    "definition": "Extremely blunt; abrupt; overly rude; unconstrained."
+  },
+  {
+    "word": "buccaneer ",
+    "pos": "n",
+    "definition": "A pirate; a person who defies the law."
+  },
+  {
+    "word": "bucolic ",
+    "pos": "adj",
+    "definition": "Rustic; pastoral; crude; boorish; pertaining to rural life."
+  },
+  {
+    "word": "buffoon ",
+    "pos": "n",
+    "definition": "A stupid person; a clown; somebody who always manages to mess things up."
+  },
+  {
+    "word": "bulge ",
+    "pos": "n",
+    "definition": "A protruding part; a swelling of a surface."
+  },
+  {
+    "word": "bulletin ",
+    "pos": "n",
+    "definition": "A short news report; a piece of information meant to be disseminated right away. "
+  },
+  {
+    "word": "bullion ",
+    "pos": "n",
+    "definition": "Either gold and silver shaped in the form of bars."
+  },
+  {
+    "word": "bulwark ",
+    "pos": "n",
+    "definition": "A defensive wall."
+  },
+  {
+    "word": "bungle ",
+    "pos": "v",
+    "definition": "To mismanage; to misappropriate; to blunder completely."
+  },
+  {
+    "word": "burgeon ",
+    "pos": "v",
+    "definition": "To grow quickly; to expand; to send out buds."
+  },
+  {
+    "word": "burlesque ",
+    "pos": "adj",
+    "definition": "Referring to mockery of a serious matter."
+  },
+  {
+    "word": "burnish ",
+    "pos": "v",
+    "definition": "To make shiny; to rub repeatedly in an attempt to polish."
+  },
+  {
+    "word": "bust ",
+    "pos": "n",
+    "definition": "A sculpture of a person's head, shoulders and chest."
+  },
+  {
+    "word": "buttress ",
+    "pos": "n",
+    "definition": "A support; something that props up another object."
+  },
+  {
+    "word": "buxom ",
+    "pos": "adj",
+    "definition": "Plump; full; jolly."
+  },
+  {
+    "word": "byline ",
+    "pos": "n",
+    "definition": "Piece of information that is part of an article and which identifies the author; added information that implies authorship."
+  }
+]

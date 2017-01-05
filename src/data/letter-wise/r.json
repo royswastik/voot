@@ -1,0 +1,992 @@
+[
+  {
+    "word": "raconteur ",
+    "pos": "n",
+    "definition": "A story-teller; a person who tells stories often, and does it with wit and skill."
+  },
+  {
+    "word": "radiant ",
+    "pos": "adj",
+    "definition": "Expressing love and/or happiness; bright due to joy."
+  },
+  {
+    "word": "raffish ",
+    "pos": "adj",
+    "definition": "Vulgar; base; tawdry."
+  },
+  {
+    "word": "raffle ",
+    "pos": "n",
+    "definition": "A lottery; a competition where a winner is chosen at random."
+  },
+  {
+    "word": "ragamuffin ",
+    "pos": "n",
+    "definition": "A unkempt, dirty child in torn clothes; a person wearing tattered clothing."
+  },
+  {
+    "word": "raillery ",
+    "pos": "n",
+    "definition": "Banter; a good-humored debate."
+  },
+  {
+    "word": "raiment ",
+    "pos": "n",
+    "definition": "Clothing; garments."
+  },
+  {
+    "word": "rake ",
+    "pos": "n",
+    "definition": "A debauched, dissolute person."
+  },
+  {
+    "word": "rakish ",
+    "pos": "adj",
+    "definition": "Stylish in a sporting, hip way; dashing; smart."
+  },
+  {
+    "word": "rally ",
+    "pos": "v",
+    "definition": "To call together; to unite; to bring to action; to summon; to revive."
+  },
+  {
+    "word": "rampage ",
+    "pos": "v",
+    "definition": "A wild or violent run; a foray."
+  },
+  {
+    "word": "rampant ",
+    "pos": "adj",
+    "definition": "Spreading quickly and without limits; not restrained; uncontrollable."
+  },
+  {
+    "word": "rancid ",
+    "pos": "adj",
+    "definition": "Rank; having a stale odor."
+  },
+  {
+    "word": "rancor ",
+    "pos": "n",
+    "definition": "Long-lasting hatred; bitterness."
+  },
+  {
+    "word": "rancorous ",
+    "pos": "adj",
+    "definition": "Expression bitterness; full of spite; virulent."
+  },
+  {
+    "word": "random ",
+    "pos": "adj",
+    "definition": "With no purpose; without a plan; done haphazardly."
+  },
+  {
+    "word": "range ",
+    "pos": "n",
+    "definition": "A group of mountains that share borders and which were created at about the same time."
+  },
+  {
+    "word": "ranger ",
+    "pos": "n",
+    "definition": "A person designated as a manager  and protector of a park, an area,  or some other designated region. "
+  },
+  {
+    "word": "rank ",
+    "pos": "adj",
+    "definition": "Very offensive in terms of odor or flavor."
+  },
+  {
+    "word": "rapacious ",
+    "pos": "adj",
+    "definition": "Voracious; ravenous; given to plunder."
+  },
+  {
+    "word": "rapport ",
+    "pos": "n",
+    "definition": "Close relationship; emotional closeness; harmony or agreement."
+  },
+  {
+    "word": "rapture ",
+    "pos": "n",
+    "definition": "Great joy; ecstasy."
+  },
+  {
+    "word": "rash ",
+    "pos": "adj",
+    "definition": "Harsh; unexpected; crazy."
+  },
+  {
+    "word": "rasher ",
+    "pos": "n",
+    "definition": "A portion of bacon or ham, usually used for frying. "
+  },
+  {
+    "word": "raspy ",
+    "pos": "adj",
+    "definition": "Characterized by a harsh noise."
+  },
+  {
+    "word": "ratiocination ",
+    "pos": "n",
+    "definition": "The process of logical reasoning; act of drawing conclusions from premises. "
+  },
+  {
+    "word": "rational ",
+    "pos": "adj",
+    "definition": "Having reason; based on reason; logical."
+  },
+  {
+    "word": "rationale ",
+    "pos": "n",
+    "definition": "Justification; grounds for action."
+  },
+  {
+    "word": "raucous ",
+    "pos": "adj",
+    "definition": "Harsh and unpleasant; noisy, unruly, and boisterous."
+  },
+  {
+    "word": "ravenous ",
+    "pos": "adj",
+    "definition": "Extremely hungry; voracious; dangerously deprived of nourishment."
+  },
+  {
+    "word": "raze ",
+    "pos": "v",
+    "definition": "To destroy completely; to burn or to eradicate."
+  },
+  {
+    "word": "rebuff ",
+    "pos": "v",
+    "definition": "To reject; to undo; to restrain."
+  },
+  {
+    "word": "rebuke ",
+    "pos": "v",
+    "definition": "To criticize severely; to scold loudly or harshly."
+  },
+  {
+    "word": "rebus ",
+    "pos": "n",
+    "definition": "The representation of words in the form of pictures or symbols; a puzzle where a player must decode a message consisting of pictures representing syllables and word."
+  },
+  {
+    "word": "rebuttal ",
+    "pos": "n",
+    "definition": "A response; an answer; a justification or official response to an argument."
+  },
+  {
+    "word": "recant ",
+    "pos": "v",
+    "definition": "To take back; to disclaim or disavow; to take back a previous statement."
+  },
+  {
+    "word": "recapitulate ",
+    "pos": "v",
+    "definition": "To summarize; to restate; to reformulate."
+  },
+  {
+    "word": "recast ",
+    "pos": "v",
+    "definition": "To remake or to refashion; to recreate."
+  },
+  {
+    "word": "received ",
+    "pos": "adj",
+    "definition": "Accepted; assumed to be a tandard. "
+  },
+  {
+    "word": "receptive ",
+    "pos": "adj",
+    "definition": "Willing or able to receive; capable of accepting."
+  },
+  {
+    "word": "recidivism ",
+    "pos": "n",
+    "definition": "A relapse into antisocial or criminal behavior; a tendency towards old, unwanted and possibly illegal habits. "
+  },
+  {
+    "word": "recipe ",
+    "pos": "n",
+    "definition": "Directions for making something; a step-by-step ordering of activities that must be performed in a specific order to attain a desired end product."
+  },
+  {
+    "word": "reciprocate ",
+    "pos": "v",
+    "definition": "To repay; to give what was previously received."
+  },
+  {
+    "word": "recital ",
+    "pos": "n",
+    "definition": "A dance or musical performance."
+  },
+  {
+    "word": "recite ",
+    "pos": "v",
+    "definition": "To repeat aloud; to produce from memory; to describe."
+  },
+  {
+    "word": "reclaim ",
+    "pos": "v",
+    "definition": "To make something fit for use; to obtain from a waste product; to take back."
+  },
+  {
+    "word": "recluse ",
+    "pos": "n",
+    "definition": "Somebody who lives alone; a person who avoids contact with other people."
+  },
+  {
+    "word": "reconcile ",
+    "pos": "v",
+    "definition": "To agree upon a settlement; to restore peace; to settle one's differences."
+  },
+  {
+    "word": "recondite ",
+    "pos": "adj",
+    "definition": "Abstruse; not easily understood; profound; secret."
+  },
+  {
+    "word": "reconnaissance ",
+    "pos": "n",
+    "definition": "Surveying of other people; spying on the enemy."
+  },
+  {
+    "word": "recourse ",
+    "pos": "n",
+    "definition": "The act of resorting to assistance."
+  },
+  {
+    "word": "recreant ",
+    "pos": "adj",
+    "definition": "Craven; disloyal; cowardly."
+  },
+  {
+    "word": "recrudescence ",
+    "pos": "n",
+    "definition": "A reappearance; a revival, marked with vigor and new activity."
+  },
+  {
+    "word": "recruit ",
+    "pos": "n",
+    "definition": "A new member of the armed forces or other organization."
+  },
+  {
+    "word": "rectify ",
+    "pos": "v",
+    "definition": "To correct; to make right; to adjust and remedy."
+  },
+  {
+    "word": "rectilinear ",
+    "pos": "adj",
+    "definition": "Characterized by movement in a straight line."
+  },
+  {
+    "word": "rectitude ",
+    "pos": "n",
+    "definition": "Moral uprightness and behavior; righteousness."
+  },
+  {
+    "word": "rector ",
+    "pos": "n",
+    "definition": "A person who is ordained as a clergyman in the Christian church; the religious leadership within a given religion."
+  },
+  {
+    "word": "recuperate ",
+    "pos": "v",
+    "definition": "To recover; to regain after loss; to get back to health."
+  },
+  {
+    "word": "recuperate ",
+    "pos": "v",
+    "definition": "To regain stamina; to become strong again after an illness."
+  },
+  {
+    "word": "recurrent ",
+    "pos": "adj",
+    "definition": "Occuring over and over again; repeating."
+  },
+  {
+    "word": "recusant ",
+    "pos": "n",
+    "definition": "Someone who refuses to follow rules or conform to customs and traditions."
+  },
+  {
+    "word": "redoubtable ",
+    "pos": "adj",
+    "definition": "Arousing respect; evoking fear or reverence."
+  },
+  {
+    "word": "reduce ",
+    "pos": "v",
+    "definition": "To make less; to demote; to lower; to make less complicated or to change to a more manageable form."
+  },
+  {
+    "word": "redundant ",
+    "pos": "adj",
+    "definition": "Superfluous; in addition to what is necessary or adequate; overly verbose."
+  },
+  {
+    "word": "reek ",
+    "pos": "v",
+    "definition": "To emit, usually an unpleasant odor; to give off."
+  },
+  {
+    "word": "refine ",
+    "pos": "v",
+    "definition": "To make more pure; to change for the better; to make polished."
+  },
+  {
+    "word": "refraction ",
+    "pos": "n",
+    "definition": "The bending of light."
+  },
+  {
+    "word": "refractory ",
+    "pos": "adj",
+    "definition": "Unmanageable; grossly disobedient and stubborn."
+  },
+  {
+    "word": "refulgent ",
+    "pos": "adj",
+    "definition": "Effulgent; brilliant; brightly shining; gleaming."
+  },
+  {
+    "word": "refurbish ",
+    "pos": "v",
+    "definition": "To renovate; to brighten or refresh; to make new again."
+  },
+  {
+    "word": "refuse ",
+    "pos": "v",
+    "definition": "To decline to do or accept something."
+  },
+  {
+    "word": "regal ",
+    "pos": "adj",
+    "definition": "Royal; imperial; of or related to somebody of extreme wealth and noble stature."
+  },
+  {
+    "word": "regale ",
+    "pos": "v",
+    "definition": "To delight; to entertain with food or drink."
+  },
+  {
+    "word": "regent ",
+    "pos": "n",
+    "definition": "A person who rules or governs in the place of another; a person who steps in and performs official duties while the rightful ruler or manager is ill or absent."
+  },
+  {
+    "word": "regicide ",
+    "pos": "n",
+    "definition": "The assassination of a king or queen."
+  },
+  {
+    "word": "reimburse ",
+    "pos": "v",
+    "definition": "To repay; to pay back; to refund. "
+  },
+  {
+    "word": "reinstate ",
+    "pos": "v",
+    "definition": "To return or restore to a former position; to return to a former position of stature and importance."
+  },
+  {
+    "word": "reiterate ",
+    "pos": "v",
+    "definition": "To say again; to repeat; to redo, often over and over again."
+  },
+  {
+    "word": "rejoinder ",
+    "pos": "n",
+    "definition": "A quick reply; retort; a comeback."
+  },
+  {
+    "word": "relapse ",
+    "pos": "n",
+    "definition": "A return to a previous state; a falling back to a former condition."
+  },
+  {
+    "word": "relent ",
+    "pos": "v",
+    "definition": "To become less severe; give in; to surrender."
+  },
+  {
+    "word": "relevant ",
+    "pos": "adj",
+    "definition": "Important; pertaining to the topic at hand."
+  },
+  {
+    "word": "relic ",
+    "pos": "n",
+    "definition": "A remnant from the past; a surviving artifact."
+  },
+  {
+    "word": "relinquish ",
+    "pos": "v",
+    "definition": "To give up reluctantly, to yield or to release."
+  },
+  {
+    "word": "relish ",
+    "pos": "v",
+    "definition": "To enjoy; savor; to take pleasure from."
+  },
+  {
+    "word": "remediable ",
+    "pos": "adj",
+    "definition": "Reparable; something that can be fixed."
+  },
+  {
+    "word": "remission ",
+    "pos": "n",
+    "definition": "A decline; a temporary halt; the cancellation of a debt; a pardon."
+  },
+  {
+    "word": "remit ",
+    "pos": "v",
+    "definition": "To forgive; to release from blame."
+  },
+  {
+    "word": "remnant ",
+    "pos": "n",
+    "definition": "Remains; what is left over; a memory."
+  },
+  {
+    "word": "remonstrate ",
+    "pos": "v",
+    "definition": "To protest; to object."
+  },
+  {
+    "word": "remorse ",
+    "pos": "n",
+    "definition": "Deep regret for a past wrongdoing; guilt."
+  },
+  {
+    "word": "remote ",
+    "pos": "adj",
+    "definition": "Distant; aloof; reserved; almost out of reach."
+  },
+  {
+    "word": "remunerative ",
+    "pos": "adj",
+    "definition": "Related to finance or money; productive and/or profitable."
+  },
+  {
+    "word": "render ",
+    "pos": "v",
+    "definition": "To represent; to generate an image of; to draw."
+  },
+  {
+    "word": "rendezvous ",
+    "pos": "n",
+    "definition": "A meeting place; meeting at a set time or place."
+  },
+  {
+    "word": "rendition ",
+    "pos": "adj",
+    "definition": "A representation; a rendering; a translation."
+  },
+  {
+    "word": "renegade ",
+    "pos": "n",
+    "definition": "A person who deserts a cause; a person who goes against the wishes and rules of a group to which he/she previously was an advocate for."
+  },
+  {
+    "word": "renege ",
+    "pos": "v",
+    "definition": "To deny; to not follow a required course of action; to go back on."
+  },
+  {
+    "word": "renounce ",
+    "pos": "v",
+    "definition": "To formally give up; to disown; repudiate."
+  },
+  {
+    "word": "renovate ",
+    "pos": "v",
+    "definition": "To restore; to improve; to bring back to a former state."
+  },
+  {
+    "word": "renowned ",
+    "pos": "adj",
+    "definition": "Celebrated; well known; famous."
+  },
+  {
+    "word": "reparable ",
+    "pos": "adj",
+    "definition": "Something that can be fixed; able to be remedied."
+  },
+  {
+    "word": "repartee ",
+    "pos": "n",
+    "definition": "A quick clever reply; a witty remark."
+  },
+  {
+    "word": "repeal ",
+    "pos": "v",
+    "definition": "To annul; to revoke; to take back."
+  },
+  {
+    "word": "repercussion ",
+    "pos": "n",
+    "definition": "A rebound; a consequence or reaction."
+  },
+  {
+    "word": "repertoire ",
+    "pos": "n",
+    "definition": "A list of works of music, drama, plays, performances, etc."
+  },
+  {
+    "word": "repine ",
+    "pos": "v",
+    "definition": "To be discontented with; to be annoyed with; to complain."
+  },
+  {
+    "word": "replenish ",
+    "pos": "v",
+    "definition": "To fill up again; to rejuvenate. "
+  },
+  {
+    "word": "replicate ",
+    "pos": "v",
+    "definition": "To reproduce; to duplicate."
+  },
+  {
+    "word": "reportorial ",
+    "pos": "adj",
+    "definition": "Pertaining to a report."
+  },
+  {
+    "word": "repose ",
+    "pos": "n",
+    "definition": "A state of being at rest."
+  },
+  {
+    "word": "repository ",
+    "pos": "n",
+    "definition": "A place of storage; a storehouse."
+  },
+  {
+    "word": "reprehensible ",
+    "pos": "adj",
+    "definition": "Deserving blame; blameworthy."
+  },
+  {
+    "word": "repress ",
+    "pos": "v",
+    "definition": "To hold back; to restrain."
+  },
+  {
+    "word": "reprieve ",
+    "pos": "n",
+    "definition": "A postponement or cancellation of a punishment; a pardon, usually temporary."
+  },
+  {
+    "word": "reprimand ",
+    "pos": "v",
+    "definition": "To reprove severely; rebuke; to criticize harshly."
+  },
+  {
+    "word": "reprise ",
+    "pos": "n",
+    "definition": "A repetition (referring to a musical movement)."
+  },
+  {
+    "word": "reproach ",
+    "pos": "v",
+    "definition": "To blame; to disapprove; to show disappointment."
+  },
+  {
+    "word": "reprobate ",
+    "pos": "n",
+    "definition": "A person hardened in sin; somebody who lacks decency."
+  },
+  {
+    "word": "reprobation ",
+    "pos": "n",
+    "definition": "Severe disapproval; censure."
+  },
+  {
+    "word": "repulsion ",
+    "pos": "n",
+    "definition": "Strong distaste; disgust."
+  },
+  {
+    "word": "repulsive ",
+    "pos": "adj",
+    "definition": "Causing a feeling of disgust; offensive."
+  },
+  {
+    "word": "reputable ",
+    "pos": "adj",
+    "definition": "Having a good reputation; respectful."
+  },
+  {
+    "word": "reputed ",
+    "pos": "adj",
+    "definition": "Supposed; purported."
+  },
+  {
+    "word": "requiem ",
+    "pos": "n",
+    "definition": "A mass or ceremonial service for the dead."
+  },
+  {
+    "word": "requisition ",
+    "pos": "n",
+    "definition": "A demand or request, usually formal."
+  },
+  {
+    "word": "requite ",
+    "pos": "v",
+    "definition": "To make a return for; to repay."
+  },
+  {
+    "word": "resentment ",
+    "pos": "n",
+    "definition": "Bitterness; displeasure; a feeling of anger and revenge."
+  },
+  {
+    "word": "reservation ",
+    "pos": "n",
+    "definition": "A feeling of doubt; uncertainty."
+  },
+  {
+    "word": "residue ",
+    "pos": "n",
+    "definition": "Something that is left over; a remainder; a left-over balance."
+  },
+  {
+    "word": "resign ",
+    "pos": "v",
+    "definition": "To submit; to give in."
+  },
+  {
+    "word": "resilience ",
+    "pos": "adj",
+    "definition": "The ability to quickly recover and to maintain control."
+  },
+  {
+    "word": "resilient ",
+    "pos": "adj",
+    "definition": "Elastic; having the power to spring back; able to recover quickly; able to withstand change."
+  },
+  {
+    "word": "resolution ",
+    "pos": "v",
+    "definition": "Strong desire; determination."
+  },
+  {
+    "word": "resolve ",
+    "pos": "n",
+    "definition": "Strong determination; resolution; firmness of purpose."
+  },
+  {
+    "word": "resonant ",
+    "pos": "adj",
+    "definition": "Giving off an echo; resounding loudly; deep and full."
+  },
+  {
+    "word": "resourceful ",
+    "pos": "adj",
+    "definition": "Clever; creative; using ones resources in an efficient way."
+  },
+  {
+    "word": "respite ",
+    "pos": "n",
+    "definition": "A rest; an interval during which there is a lower than usual amount of activity."
+  },
+  {
+    "word": "resplendent ",
+    "pos": "adj",
+    "definition": "Brilliant; splendid in appearance; glorious."
+  },
+  {
+    "word": "respondent ",
+    "pos": "n",
+    "definition": "A person who responds; a person who has to answer in a court of law."
+  },
+  {
+    "word": "restive ",
+    "pos": "adj",
+    "definition": "Restless; impatient; resisting authority."
+  },
+  {
+    "word": "restraint ",
+    "pos": "n",
+    "definition": "Self control; a restriction."
+  },
+  {
+    "word": "resurrect ",
+    "pos": "v",
+    "definition": "To revive; to bring back from the dead."
+  },
+  {
+    "word": "retain ",
+    "pos": "v",
+    "definition": "To keep; to maintain the possession of; to employ and to utilize the skills of."
+  },
+  {
+    "word": "retard ",
+    "pos": "v",
+    "definition": "To hinder; to hold back; to delay."
+  },
+  {
+    "word": "retentive ",
+    "pos": "adj",
+    "definition": "Holding on; being able to remember; having good recall."
+  },
+  {
+    "word": "reticent ",
+    "pos": "adj",
+    "definition": "Inclined to silence; overly reserved; not talking."
+  },
+  {
+    "word": "reticulated ",
+    "pos": "adj",
+    "definition": "Covered with a netlike pattern of lines; like a net."
+  },
+  {
+    "word": "retinue ",
+    "pos": "n",
+    "definition": "A following; the attendants associated with an important person."
+  },
+  {
+    "word": "retiring ",
+    "pos": "adj",
+    "definition": "Shy, reserved; modest."
+  },
+  {
+    "word": "retort ",
+    "pos": "n",
+    "definition": "A sharp, quick reply; a rejoinder."
+  },
+  {
+    "word": "retribution ",
+    "pos": "n",
+    "definition": "Punishment for wrongdoing; vengeance."
+  },
+  {
+    "word": "retrodict ",
+    "pos": "v",
+    "definition": "To explain or predict a past event using knowledge about the present state of affairs or knowledge learned since the event occurred."
+  },
+  {
+    "word": "retrograde ",
+    "pos": "adj",
+    "definition": "Having a backward motion; reversed."
+  },
+  {
+    "word": "retrospective ",
+    "pos": "adj",
+    "definition": "Looking back on the past; considering previous events."
+  },
+  {
+    "word": "reverberate ",
+    "pos": "v",
+    "definition": "To echo; to resound."
+  },
+  {
+    "word": "revere ",
+    "pos": "v",
+    "definition": "To show respect for; to idolize."
+  },
+  {
+    "word": "reverent ",
+    "pos": "adj",
+    "definition": "Feeling or expressing respect; worshipful."
+  },
+  {
+    "word": "revert ",
+    "pos": "v",
+    "definition": "To relapse; to turn back to a previous position or instance."
+  },
+  {
+    "word": "revile ",
+    "pos": "n",
+    "definition": "An verbal attack, usually involving vile and abusive language."
+  },
+  {
+    "word": "revoke ",
+    "pos": "v",
+    "definition": "To cancel; to take back; to take away or retract."
+  },
+  {
+    "word": "revulsion ",
+    "pos": "n",
+    "definition": "A strong feeling of disgust; a violent change of feeling."
+  },
+  {
+    "word": "rhapsodize ",
+    "pos": "v",
+    "definition": "To speak or write in an overly, exaggerated enthusiastic manner."
+  },
+  {
+    "word": "rhapsody ",
+    "pos": "n",
+    "definition": "An excessively enthusiastic expression of emotion or feeling; an instrumental composition that is irregular."
+  },
+  {
+    "word": "rhetoric ",
+    "pos": "n",
+    "definition": "The art of effective communication; effective persuasion; language which aims to persuade or to convince."
+  },
+  {
+    "word": "ribald ",
+    "pos": "adj",
+    "definition": "Characterized as vulgar; wanton; profane; bawdy."
+  },
+  {
+    "word": "riddle ",
+    "pos": "v",
+    "definition": "To make complicated; to make puzzling."
+  },
+  {
+    "word": "rigid ",
+    "pos": "adj",
+    "definition": "Hard; unyielding; not bendable."
+  },
+  {
+    "word": "rigmarole ",
+    "pos": "n",
+    "definition": "A complicated procedure; jabber; meaningless talk."
+  },
+  {
+    "word": "rind ",
+    "pos": "n",
+    "definition": "The tough outer covering of a fruit, especially of a melon, lemon, or orange."
+  },
+  {
+    "word": "ripple ",
+    "pos": "n",
+    "definition": "A small wave; a minor disturbance."
+  },
+  {
+    "word": "risible ",
+    "pos": "adj",
+    "definition": "Amusing; comic; laughable."
+  },
+  {
+    "word": "rivet ",
+    "pos": "v",
+    "definition": "To captivate; to hold."
+  },
+  {
+    "word": "riveting ",
+    "pos": "adj",
+    "definition": "Awe-inspiring; holding ones attention; engrossing; extremely interesting."
+  },
+  {
+    "word": "robust ",
+    "pos": "adj",
+    "definition": "Strong; vigorous; resistant to change or corruption."
+  },
+  {
+    "word": "rococo ",
+    "pos": "adj",
+    "definition": "Highly ornate; overly decorated, usually referring to 18th century furniture."
+  },
+  {
+    "word": "rogue ",
+    "pos": "n",
+    "definition": "A dishonest person; somebody who is deceitful."
+  },
+  {
+    "word": "roll ",
+    "pos": "n",
+    "definition": "The calling of names."
+  },
+  {
+    "word": "rolling ",
+    "pos": "adj",
+    "definition": "Rising and falling in a gentle manner; changing in a continuous manner."
+  },
+  {
+    "word": "roster ",
+    "pos": "n",
+    "definition": "List of names."
+  },
+  {
+    "word": "rostrum ",
+    "pos": "n",
+    "definition": "A raised platform for the purpose of giving a speeh; a pulpit."
+  },
+  {
+    "word": "rote ",
+    "pos": "n",
+    "definition": "Repetition; learning through mere memorization rather than by means of understanding."
+  },
+  {
+    "word": "rousing ",
+    "pos": "adj",
+    "definition": "Lively; inducing excitement."
+  },
+  {
+    "word": "rubbish ",
+    "pos": "n",
+    "definition": "Garbage; trash; junk; worthless material."
+  },
+  {
+    "word": "rubble ",
+    "pos": "n",
+    "definition": "Fragments; rubbish; the remains of something."
+  },
+  {
+    "word": "rubicund ",
+    "pos": "adj",
+    "definition": "Red and healthy-looking; healthy looking and full of vigor; ruddy."
+  },
+  {
+    "word": "rubric ",
+    "pos": "n",
+    "definition": "A title or heading in a manuscript; an established mode of conduct or assumed correct way of acting."
+  },
+  {
+    "word": "ruddy ",
+    "pos": "adj",
+    "definition": "Reddish; tainted with red."
+  },
+  {
+    "word": "rueful ",
+    "pos": "adj",
+    "definition": "Sorrowful; mournful."
+  },
+  {
+    "word": "ruffian ",
+    "pos": "n",
+    "definition": "A violent scoundrel; a bully; a cruel person."
+  },
+  {
+    "word": "ruffle ",
+    "pos": "v",
+    "definition": "To disturb; to alter the smoothness or regularity of something."
+  },
+  {
+    "word": "ruminant ",
+    "pos": "adj",
+    "definition": "Contemplative; marked with deep thoughts; meditative."
+  },
+  {
+    "word": "ruminate ",
+    "pos": "v",
+    "definition": "To ponder; to think over; to mentally process in a slow, languid manner; to mull over."
+  },
+  {
+    "word": "ruse ",
+    "pos": "n",
+    "definition": "A trick; a stratagem."
+  },
+  {
+    "word": "rustic ",
+    "pos": "adj",
+    "definition": "Pertaining to country life; simple and unsophisticated; plain and ordinary."
+  },
+  {
+    "word": "rustle ",
+    "pos": "v",
+    "definition": "To make a small sound; to rub two objects together to make a sound, as for example two pieces of silk; to make a sounds while brushing against something."
+  },
+  {
+    "word": "ruthless ",
+    "pos": "adj",
+    "definition": "Without pity; showing no mercy; overly cruel; barbaric."
+  }
+]

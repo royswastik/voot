@@ -1,0 +1,111 @@
+<style>
+    .timer-input > input{
+     float: left;
+    width: 80px;
+    font-size: 32pt;
+    padding-right: 23px;
+    border: none;
+    text-align: right;
+    }
+    .timer-input > span{
+        float: left;
+    font-size: 20pt;
+    font-weight: 600;
+    margin-top: 18px;
+    margin-left: -24px;
+    }
+
+    .timer-input{
+        display: inline-block;
+    }
+    .timer-value > .ifNot{
+        display: inline;
+    }
+    .timer-value > .ifSet{
+        display: none;
+    }
+    .timer-value.active > .ifSet{
+        display: inline;
+    }
+    .timer-value.active > .ifNot{
+        display: none;
+    }
+</style>
+
+<div style="    text-align: center;
+    margin-top: 50px;">
+    <h2>Configuration Page</h2>
+    <div class="timer-input">
+        <input type="text" id="input-h" maxlength="2" placeholder="00"/>
+        <span>h</span>
+        <input type="text" id="input-m" maxlength="2" placeholder="00"/>
+        <span>m</span>
+        <input type="text" id="input-s" maxlength="2" placeholder="00"/>
+        <span>s</span>
+    </div>
+    <br />
+    <button id="set-timer">Set Timer</button>
+    <h5>Interval: </h5>
+    <h4 class="timer-value">
+        <span class="ifSet"><span class="hour"></span> <span class="minute"></span> <span class="second"></span></span>
+        <span class="ifNot"></span>
+    </h4>
+</div>
+
+<script>
+    /**
+     * "timer": {
+     *  "h": value,
+     *  "m": value,
+     *  "s": value
+     * }
+     */
+    
+
+
+    $(document).ready(function(){
+        
+        if(config.has("timer")){
+            let timer = JSON.parse(config.get("timer"));
+            console.log(timer);
+            if(timer.h != null && timer.h!="")$(".hour").text(timer.h+"h");
+            if(timer.m != null && timer.m!="")$(".minute").text(timer.m+"m");
+            if(timer.s != null && timer.s!="")$(".second").text(timer.s+"s");
+            $(".timer-value").addClass("active");
+            $("#input-h").val(timer.h);
+            $("#input-m").val(timer.m);
+            $("#input-s").val(timer.s);
+        }
+        else{
+            $(".timer-value").removeClass("active");
+        }
+
+        $("#set-timer").click(function(){
+            let h = $("#input-h").val();
+            let m = $("#input-m").val();
+            let s = $("#input-s").val();
+            if((s == null || s == 0 || s < 10) && (m == null || m == 0) && (h == null || h == 0)){
+                //All three are not set or less than 20 seconds
+
+                return;
+            }else{
+                config.set("timer", JSON.stringify({
+                    "h":h,
+                    "m":m,
+                    "s":s
+                }));
+                if(h != null && h!="")$(".hour").text(h+"h");
+                if(m != null && m!="")$(".minute").text(m+"m");
+                if(s != null && s!="")$(".second").text(s+"s");
+                ipcRenderer.send("new-timer-set", {
+                    "h":h,
+                    "m":m,
+                    "s":s
+                });
+            }
+        });
+    });
+
+ 
+    
+</script>
